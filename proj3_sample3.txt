@@ -1,0 +1,1631 @@
+
+*********************************
+Welcome to the Washington DC Metro
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+1
+
+**red Line Stops**
+1. Shady Grove(red)
+2. Rockville(red)
+3. Twinbrook(red)
+4. North Bethesda(red)
+5. Grosvenor-Strathmore(red)
+6. Medical Center(red)
+7. Bethesda(red)
+8. Friendship Heights(red)
+9. Tenleytown-AU(red)
+10. Van Ness-UDC(red)
+11. Cleveland Park(red)
+12. Woodley Park(red)
+13. Dupont Circle(red)
+14. Farragut North(red)
+15. Metro Center(red)
+16. Gallery Place(red)
+17. Judiciary Square(red)
+18. Union Station(red)
+19. NoMa-Gallaudet U(red)
+20. Rhode Island Avenue(red)
+21. Brookland-CUA(red)
+22. Fort Totten(red)
+23. Takoma(red)
+24. Silver Spring(red)
+25. Forest Glen(red)
+26. Wheaton(red)
+27. Glenmont(red)
+
+**green Line Stops**
+1. Greenbelt(green)
+2. College Park-University of Maryland(green)
+3. Hyattsville Crossing(green)
+4. West Hyattsville(green)
+5. Fort Totten(green)
+6. Georgia Avenue-Petworth(green)
+7. Columbia Heights(green)
+8. U Street(green)
+9. Shaw-Howard University(green)
+10. Mount Vernon Square(green)
+11. Gallery Place(green)
+12. Archives(green)
+13. L'Enfant Plaza(green)
+14. Waterfront(green)
+15. Navy Yard-Ballpark(green)
+16. Anacostia(green)
+17. Congress Heights(green)
+18. Southern Avenue(green)
+19. Naylor Road(green)
+20. Suitland(green)
+21. Branch Avenue(green)
+
+**blue Line Stops**
+1. Largo(blue)
+2. Morgan Boulevard(blue)
+3. Addison Road(blue)
+4. Capitol Heights(blue)
+5. Benning Road(blue)
+6. Stadium-Armory(blue)
+7. Potomac Avenue(blue)
+8. Eastern Market(blue)
+9. Capitol South(blue)
+10. Federal Center SW(blue)
+11. L'Enfant Plaza(blue)
+12. Smithsonian(blue)
+13. Federal Triangle(blue)
+14. Metro Center(blue)
+15. McPherson Square(blue)
+16. Farragut West(blue)
+17. Foggy Bottom-GWU(blue)
+18. Rosslyn(blue)
+19. Arlington Cemetery(blue)
+20. Pentagon(blue)
+21. Pentagon City(blue)
+22. Crystal City(blue)
+23. National Airport(blue)
+24. Potomac Yard(blue)
+25. Braddock Road(blue)
+26. King Street-Old Town(blue)
+27. Van Dorn Street(blue)
+28. Franconia-Springfield(blue)
+
+**yellow Line Stops**
+1. Mount Vernon Square(yellow)
+2. Gallery Place(yellow)
+3. Archives(yellow)
+4. L'Enfant Plaza(yellow)
+5. Pentagon(yellow)
+6. Pentagon City(yellow)
+7. Crystal City(yellow)
+8. National Airport(yellow)
+9. Potomac Yard(yellow)
+10. Braddock Road(yellow)
+11. King Street-Old Town(yellow)
+12. Eisenhower Avenue(yellow)
+13. Huntington(yellow)
+
+**silver Line Stops**
+1. Downtown Largo(silver)
+2. Morgan Boulevard(silver)
+3. Addison Road(silver)
+4. Capitol Heights(silver)
+5. Benning Road(silver)
+6. Stadium-Armory(silver)
+7. Potomac Avenue(silver)
+8. Eastern Market(silver)
+9. Capitol South(silver)
+10. Federal Center SW(silver)
+11. L'Enfant Plaza(silver)
+12. Smithsonian(silver)
+13. Federal Triangle(silver)
+14. Metro Center(silver)
+15. McPherson Square(silver)
+16. Farragut West(silver)
+17. Foggy Bottom-GWU(silver)
+18. Rosslyn(silver)
+19. Court House(silver)
+20. Clarendon(silver)
+21. Virginia Square-GMU(silver)
+22. Ballston-MU(silver)
+23. East Falls Church(silver)
+24. McLean(silver)
+25. Tysons(silver)
+26. Greensboro(silver)
+27. Spring Hill(silver)
+28. Wiehle-Reston East(silver)
+29. Reston Town Center(silver)
+30. Herndon(silver)
+31. Innovation Center(silver)
+32. Dulles International Airport(silver)
+33. Loudoun Gateway(silver)
+34. Ashburn(silver)
+
+**orange Line Stops**
+1. New Carrollton(orange)
+2. Landover(orange)
+3. Cheverly(orange)
+4. Deanwood(orange)
+5. Minnesota Avenue(orange)
+6. Stadium-Armory(orange)
+7. Potomac Avenue(orange)
+8. Eastern Market(orange)
+9. Capitol South(orange)
+10. Federal Center SW(orange)
+11. L'Enfant Plaza(orange)
+12. Smithsonian(orange)
+13. Federal Triangle(orange)
+14. Metro Center(orange)
+15. McPherson Square(orange)
+16. Farragut West(orange)
+17. Foggy Bottom-GWU(orange)
+18. Rosslyn(orange)
+19. Court House(orange)
+20. Clarendon(orange)
+21. Virginia Square-GMU(orange)
+22. Ballston-MU(orange)
+23. East Falls Church(orange)
+24. West Falls Church(orange)
+25. Dunn Loring(orange)
+26. Vienna(orange)
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+2
+
+*** red Line ***
+Passengers: 
+Passenger 1: Brookland-CUA to Forest Glen
+Passenger 3: North Bethesda to Medical Center
+Passenger 8: Shady Grove to Gallery Place
+Passenger 9: Tenleytown-AU to Judiciary Square
+Passenger 14: Grosvenor-Strathmore to Tenleytown-AU
+Passenger 20: Shady Grove to Woodley Park
+Passenger 21: Grosvenor-Strathmore to Friendship Heights
+Passenger 27: Judiciary Square to Union Station
+Passenger 39: Cleveland Park to Judiciary Square
+Passenger 50: Cleveland Park to Glenmont
+Passenger 52: Farragut North to Metro Center
+Passenger 55: Shady Grove to Fort Totten
+Passenger 56: Bethesda to Woodley Park
+Passenger 60: Woodley Park to Wheaton
+Passenger 61: Twinbrook to Forest Glen
+Passenger 69: Friendship Heights to Takoma
+Passenger 75: Friendship Heights to Metro Center
+Passenger 79: North Bethesda to Judiciary Square
+Passenger 82: North Bethesda to Brookland-CUA
+Passenger 87: Woodley Park to Forest Glen
+Passenger 93: Dupont Circle to Wheaton
+Passenger 102: Grosvenor-Strathmore to Brookland-CUA
+Passenger 108: Union Station to Rhode Island Avenue
+Passenger 109: Friendship Heights to Tenleytown-AU
+Passenger 111: Farragut North to Fort Totten
+Passenger 112: Rhode Island Avenue to Wheaton
+Passenger 113: Brookland-CUA to Glenmont
+Passenger 119: Rockville to Van Ness-UDC
+Passenger 129: Rockville to Brookland-CUA
+Passenger 131: Medical Center to Glenmont
+Passenger 132: North Bethesda to Friendship Heights
+Passenger 137: Cleveland Park to Judiciary Square
+Passenger 146: Union Station to Rhode Island Avenue
+Passenger 157: North Bethesda to Wheaton
+Passenger 158: Metro Center to Wheaton
+Passenger 161: Forest Glen to Glenmont
+Passenger 167: Woodley Park to Union Station
+Passenger 170: Woodley Park to Brookland-CUA
+Passenger 171: Tenleytown-AU to Brookland-CUA
+Passenger 174: Tenleytown-AU to Metro Center
+Passenger 187: Bethesda to Forest Glen
+Passenger 188: Fort Totten to Wheaton
+Passenger 195: Woodley Park to Dupont Circle
+Passenger 202: Shady Grove to Glenmont
+Passenger 207: Twinbrook to Forest Glen
+Passenger 215: Rhode Island Avenue to Takoma
+Passenger 219: Friendship Heights to Union Station
+Passenger 223: Rockville to NoMa-Gallaudet U
+Passenger 232: Union Station to Takoma
+Passenger 233: Rockville to Forest Glen
+Passenger 243: Grosvenor-Strathmore to Forest Glen
+Passenger 249: Dupont Circle to Union Station
+Passenger 253: North Bethesda to Takoma
+Passenger 255: Forest Glen to Glenmont
+Passenger 263: Twinbrook to Glenmont
+Passenger 269: Rockville to Gallery Place
+Passenger 279: Shady Grove to Bethesda
+Passenger 283: Van Ness-UDC to Silver Spring
+Passenger 290: Rockville to Silver Spring
+Passenger 293: Gallery Place to Wheaton
+Passenger 298: Van Ness-UDC to Farragut North
+Passenger 313: Medical Center to Takoma
+Passenger 316: Shady Grove to Judiciary Square
+Passenger 321: Farragut North to Judiciary Square
+Passenger 327: North Bethesda to Takoma
+Passenger 329: Cleveland Park to Wheaton
+Passenger 336: Twinbrook to Takoma
+Passenger 344: Gallery Place to Judiciary Square
+Passenger 353: Farragut North to Forest Glen
+Passenger 370: Bethesda to Wheaton
+Passenger 371: Fort Totten to Silver Spring
+Passenger 374: Van Ness-UDC to Glenmont
+Passenger 375: Twinbrook to Silver Spring
+Passenger 376: Rockville to Silver Spring
+Passenger 393: Tenleytown-AU to Union Station
+Passenger 396: Cleveland Park to Fort Totten
+Passenger 410: Union Station to Fort Totten
+Passenger 412: Woodley Park to Gallery Place
+Passenger 417: Tenleytown-AU to Gallery Place
+Passenger 419: Friendship Heights to Gallery Place
+Passenger 427: Grosvenor-Strathmore to Forest Glen
+Passenger 429: Shady Grove to Tenleytown-AU
+Passenger 431: Metro Center to Brookland-CUA
+Passenger 434: NoMa-Gallaudet U to Silver Spring
+Passenger 435: Medical Center to Tenleytown-AU
+Passenger 436: North Bethesda to Takoma
+Passenger 437: NoMa-Gallaudet U to Brookland-CUA
+Passenger 440: Shady Grove to Cleveland Park
+Passenger 445: North Bethesda to Union Station
+Passenger 451: Brookland-CUA to Glenmont
+Passenger 452: Twinbrook to Rhode Island Avenue
+Passenger 455: Cleveland Park to NoMa-Gallaudet U
+Passenger 461: North Bethesda to Fort Totten
+Passenger 464: Judiciary Square to Takoma
+Passenger 465: Friendship Heights to Glenmont
+Passenger 466: Gallery Place to NoMa-Gallaudet U
+Passenger 467: Farragut North to Wheaton
+Passenger 484: Woodley Park to Takoma
+Passenger 487: Judiciary Square to NoMa-Gallaudet U
+Passenger 489: Friendship Heights to Glenmont
+Passenger 492: Shady Grove to Wheaton
+Passenger 496: Fort Totten to Forest Glen
+Passenger 502: Van Ness-UDC to Farragut North
+Passenger 505: Dupont Circle to Brookland-CUA
+Passenger 508: Rockville to NoMa-Gallaudet U
+Passenger 515: Grosvenor-Strathmore to Friendship Heights
+Passenger 520: Gallery Place to Silver Spring
+Passenger 531: Van Ness-UDC to Fort Totten
+Passenger 532: Tenleytown-AU to Farragut North
+Passenger 542: Van Ness-UDC to Brookland-CUA
+Passenger 544: Brookland-CUA to Takoma
+Passenger 545: Metro Center to Glenmont
+Passenger 552: Metro Center to Judiciary Square
+Passenger 561: Tenleytown-AU to NoMa-Gallaudet U
+Passenger 565: Cleveland Park to Metro Center
+Passenger 568: Medical Center to NoMa-Gallaudet U
+Passenger 572: Grosvenor-Strathmore to Tenleytown-AU
+Passenger 573: Silver Spring to Wheaton
+Passenger 578: Silver Spring to Glenmont
+Passenger 588: Twinbrook to Friendship Heights
+Passenger 598: Rockville to NoMa-Gallaudet U
+Passenger 599: Grosvenor-Strathmore to Rhode Island Avenue
+Passenger 601: Medical Center to Gallery Place
+Passenger 604: Tenleytown-AU to Wheaton
+Passenger 605: Grosvenor-Strathmore to Woodley Park
+Passenger 606: North Bethesda to Rhode Island Avenue
+Passenger 617: Woodley Park to Forest Glen
+Passenger 620: Grosvenor-Strathmore to Brookland-CUA
+Passenger 622: Shady Grove to Wheaton
+Passenger 625: Takoma to Glenmont
+Passenger 638: Grosvenor-Strathmore to Medical Center
+Passenger 640: Gallery Place to Judiciary Square
+Passenger 642: Dupont Circle to Forest Glen
+Passenger 644: Shady Grove to Bethesda
+Passenger 655: Dupont Circle to Metro Center
+Passenger 664: Dupont Circle to Takoma
+Passenger 673: Takoma to Glenmont
+Passenger 675: Friendship Heights to Dupont Circle
+Passenger 676: Dupont Circle to Gallery Place
+Passenger 693: North Bethesda to Dupont Circle
+Passenger 696: Metro Center to NoMa-Gallaudet U
+Passenger 698: Rockville to Bethesda
+Passenger 699: Grosvenor-Strathmore to Medical Center
+Passenger 700: Grosvenor-Strathmore to Medical Center
+Passenger 706: Farragut North to Fort Totten
+Passenger 712: NoMa-Gallaudet U to Forest Glen
+Passenger 713: NoMa-Gallaudet U to Glenmont
+Passenger 718: Rockville to Union Station
+Passenger 725: North Bethesda to Union Station
+Passenger 729: Bethesda to Friendship Heights
+Passenger 733: NoMa-Gallaudet U to Brookland-CUA
+Passenger 741: Twinbrook to Tenleytown-AU
+Passenger 745: Farragut North to Silver Spring
+Passenger 761: Van Ness-UDC to Metro Center
+Passenger 763: Tenleytown-AU to NoMa-Gallaudet U
+Passenger 768: Grosvenor-Strathmore to Bethesda
+Passenger 789: Twinbrook to Farragut North
+Passenger 790: Farragut North to Gallery Place
+Passenger 793: Dupont Circle to Rhode Island Avenue
+Passenger 796: Rockville to Woodley Park
+Passenger 797: Farragut North to Wheaton
+Passenger 798: Woodley Park to Brookland-CUA
+Passenger 806: Woodley Park to Forest Glen
+Passenger 817: Rockville to Gallery Place
+Passenger 822: Grosvenor-Strathmore to Takoma
+Passenger 833: Medical Center to Friendship Heights
+Passenger 840: North Bethesda to Dupont Circle
+Passenger 842: Grosvenor-Strathmore to Wheaton
+Passenger 849: Tenleytown-AU to Farragut North
+Passenger 852: Tenleytown-AU to Silver Spring
+Passenger 854: Shady Grove to Farragut North
+Passenger 855: Woodley Park to Farragut North
+Passenger 860: North Bethesda to Judiciary Square
+Passenger 866: Farragut North to Metro Center
+Passenger 867: Bethesda to Friendship Heights
+Passenger 872: North Bethesda to Forest Glen
+Passenger 873: Rockville to Bethesda
+Passenger 875: Shady Grove to North Bethesda
+Passenger 889: Twinbrook to NoMa-Gallaudet U
+Passenger 890: Woodley Park to Metro Center
+Passenger 901: Shady Grove to Forest Glen
+Passenger 905: Twinbrook to Van Ness-UDC
+Passenger 912: Takoma to Glenmont
+Passenger 914: Twinbrook to Tenleytown-AU
+Passenger 922: Medical Center to Gallery Place
+Passenger 925: North Bethesda to Fort Totten
+Passenger 926: Judiciary Square to NoMa-Gallaudet U
+Passenger 933: Dupont Circle to Brookland-CUA
+Passenger 948: Shady Grove to Forest Glen
+Passenger 953: Bethesda to Rhode Island Avenue
+Passenger 954: North Bethesda to Brookland-CUA
+Passenger 963: Shady Grove to Judiciary Square
+Passenger 964: Farragut North to Metro Center
+Passenger 968: Rockville to Farragut North
+Passenger 972: Grosvenor-Strathmore to Medical Center
+Passenger 993: Woodley Park to Rhode Island Avenue
+Passenger 994: Medical Center to Gallery Place
+Passenger 1000: Shady Grove to Dupont Circle
+Passenger 1004: Shady Grove to Twinbrook
+Passenger 1005: Van Ness-UDC to Woodley Park
+Passenger 1011: North Bethesda to Friendship Heights
+Passenger 1020: Grosvenor-Strathmore to Glenmont
+Passenger 1021: Cleveland Park to Silver Spring
+Passenger 1023: Shady Grove to Cleveland Park
+Passenger 1031: NoMa-Gallaudet U to Silver Spring
+Passenger 1035: Tenleytown-AU to Cleveland Park
+Passenger 1039: Medical Center to Takoma
+Passenger 1053: Metro Center to Silver Spring
+Passenger 1056: Dupont Circle to Rhode Island Avenue
+Passenger 1059: Union Station to Glenmont
+Passenger 1060: Union Station to Fort Totten
+Passenger 1067: North Bethesda to Glenmont
+Passenger 1076: Grosvenor-Strathmore to Medical Center
+Passenger 1077: Brookland-CUA to Forest Glen
+Passenger 1080: North Bethesda to Union Station
+Passenger 1084: Friendship Heights to Van Ness-UDC
+Passenger 1087: Farragut North to Brookland-CUA
+Passenger 1089: North Bethesda to Gallery Place
+Passenger 1097: Van Ness-UDC to Union Station
+Passenger 1100: Union Station to Rhode Island Avenue
+Passenger 1101: Bethesda to Van Ness-UDC
+Passenger 1107: Medical Center to Brookland-CUA
+Passenger 1108: Twinbrook to Union Station
+Passenger 1111: Grosvenor-Strathmore to Brookland-CUA
+Passenger 1123: Medical Center to Gallery Place
+Passenger 1124: Dupont Circle to Takoma
+Passenger 1128: Woodley Park to Forest Glen
+Passenger 1137: Van Ness-UDC to Wheaton
+Passenger 1150: Twinbrook to Van Ness-UDC
+Passenger 1156: North Bethesda to Medical Center
+Passenger 1160: Friendship Heights to Fort Totten
+Passenger 1165: Bethesda to Judiciary Square
+Passenger 1170: Friendship Heights to Wheaton
+Passenger 1174: Cleveland Park to Dupont Circle
+Passenger 1186: Woodley Park to NoMa-Gallaudet U
+Passenger 1187: Dupont Circle to Metro Center
+Passenger 1195: Shady Grove to NoMa-Gallaudet U
+Passenger 1196: Dupont Circle to Metro Center
+Passenger 1199: Tenleytown-AU to Van Ness-UDC
+Passenger 1200: Twinbrook to Takoma
+Passenger 1201: Van Ness-UDC to Union Station
+Passenger 1208: Shady Grove to Metro Center
+Passenger 1209: Cleveland Park to Union Station
+Passenger 1218: Twinbrook to Fort Totten
+Passenger 1231: Grosvenor-Strathmore to Medical Center
+Passenger 1233: North Bethesda to Glenmont
+Passenger 1234: Rockville to Brookland-CUA
+Passenger 1244: Rockville to Grosvenor-Strathmore
+Passenger 1254: Friendship Heights to Van Ness-UDC
+Passenger 1262: Grosvenor-Strathmore to Fort Totten
+Passenger 1267: Rockville to Union Station
+Passenger 1270: Twinbrook to Union Station
+Passenger 1272: Woodley Park to Silver Spring
+Passenger 1274: North Bethesda to Brookland-CUA
+Passenger 1306: Twinbrook to Medical Center
+Passenger 1319: Grosvenor-Strathmore to Cleveland Park
+Passenger 1326: North Bethesda to Takoma
+Passenger 1327: Tenleytown-AU to NoMa-Gallaudet U
+Passenger 1330: Rockville to Grosvenor-Strathmore
+Passenger 1331: Twinbrook to Wheaton
+Passenger 1358: Farragut North to Judiciary Square
+Passenger 1360: Gallery Place to Brookland-CUA
+Passenger 1365: Farragut North to Takoma
+Passenger 1369: Cleveland Park to NoMa-Gallaudet U
+Passenger 1372: Silver Spring to Wheaton
+Passenger 1374: Van Ness-UDC to Woodley Park
+Passenger 1383: Cleveland Park to Farragut North
+Passenger 1388: Gallery Place to Wheaton
+Passenger 1390: Van Ness-UDC to Takoma
+
+*** green Line ***
+Passengers: 
+Passenger 5: Anacostia to Suitland
+Passenger 26: Greenbelt to Hyattsville Crossing
+Passenger 29: Hyattsville Crossing to Branch Avenue
+Passenger 33: Greenbelt to Archives
+Passenger 34: Mount Vernon Square to Suitland
+Passenger 44: College Park-University of Maryland to U Street
+Passenger 45: Georgia Avenue-Petworth to U Street
+Passenger 47: Hyattsville Crossing to L'Enfant Plaza
+Passenger 92: Waterfront to Naylor Road
+Passenger 95: Fort Totten to Suitland
+Passenger 107: Southern Avenue to Naylor Road
+Passenger 114: Columbia Heights to L'Enfant Plaza
+Passenger 115: Hyattsville Crossing to U Street
+Passenger 116: Hyattsville Crossing to U Street
+Passenger 122: Georgia Avenue-Petworth to Mount Vernon Square
+Passenger 128: Georgia Avenue-Petworth to Shaw-Howard University
+Passenger 142: West Hyattsville to Naylor Road
+Passenger 147: U Street to Waterfront
+Passenger 156: Georgia Avenue-Petworth to Southern Avenue
+Passenger 168: West Hyattsville to Southern Avenue
+Passenger 172: Mount Vernon Square to Anacostia
+Passenger 191: Georgia Avenue-Petworth to Columbia Heights
+Passenger 192: West Hyattsville to Gallery Place
+Passenger 194: Mount Vernon Square to Gallery Place
+Passenger 212: Columbia Heights to Suitland
+Passenger 213: Shaw-Howard University to Archives
+Passenger 225: Gallery Place to Suitland
+Passenger 234: Archives to Congress Heights
+Passenger 235: College Park-University of Maryland to Archives
+Passenger 237: U Street to Shaw-Howard University
+Passenger 240: L'Enfant Plaza to Branch Avenue
+Passenger 247: Greenbelt to L'Enfant Plaza
+Passenger 250: Mount Vernon Square to Archives
+Passenger 251: U Street to Suitland
+Passenger 256: Navy Yard-Ballpark to Naylor Road
+Passenger 259: Fort Totten to Southern Avenue
+Passenger 261: Gallery Place to Waterfront
+Passenger 265: Georgia Avenue-Petworth to Shaw-Howard University
+Passenger 272: West Hyattsville to Columbia Heights
+Passenger 280: Gallery Place to Anacostia
+Passenger 288: Gallery Place to Branch Avenue
+Passenger 291: Archives to L'Enfant Plaza
+Passenger 294: Greenbelt to Waterfront
+Passenger 300: Congress Heights to Suitland
+Passenger 304: Congress Heights to Naylor Road
+Passenger 314: College Park-University of Maryland to Naylor Road
+Passenger 328: West Hyattsville to Georgia Avenue-Petworth
+Passenger 340: U Street to Branch Avenue
+Passenger 345: Waterfront to Navy Yard-Ballpark
+Passenger 347: Archives to Waterfront
+Passenger 349: Gallery Place to L'Enfant Plaza
+Passenger 364: Suitland to Branch Avenue
+Passenger 366: Mount Vernon Square to Congress Heights
+Passenger 388: U Street to Naylor Road
+Passenger 390: Anacostia to Suitland
+Passenger 395: College Park-University of Maryland to Fort Totten
+Passenger 397: Greenbelt to West Hyattsville
+Passenger 401: Greenbelt to College Park-University of Maryland
+Passenger 405: Fort Totten to Anacostia
+Passenger 408: Greenbelt to Gallery Place
+Passenger 409: Waterfront to Branch Avenue
+Passenger 430: College Park-University of Maryland to Southern Avenue
+Passenger 432: Gallery Place to Southern Avenue
+Passenger 439: L'Enfant Plaza to Navy Yard-Ballpark
+Passenger 442: L'Enfant Plaza to Anacostia
+Passenger 448: West Hyattsville to Gallery Place
+Passenger 474: West Hyattsville to Shaw-Howard University
+Passenger 478: Archives to Anacostia
+Passenger 479: U Street to Anacostia
+Passenger 494: West Hyattsville to Archives
+Passenger 507: College Park-University of Maryland to Waterfront
+Passenger 509: College Park-University of Maryland to Mount Vernon Square
+Passenger 514: Hyattsville Crossing to West Hyattsville
+Passenger 519: Columbia Heights to Naylor Road
+Passenger 533: Columbia Heights to Anacostia
+Passenger 534: Georgia Avenue-Petworth to Anacostia
+Passenger 538: Archives to Congress Heights
+Passenger 541: Navy Yard-Ballpark to Naylor Road
+Passenger 546: Waterfront to Congress Heights
+Passenger 551: Georgia Avenue-Petworth to U Street
+Passenger 575: Georgia Avenue-Petworth to Southern Avenue
+Passenger 577: U Street to Suitland
+Passenger 579: Archives to Branch Avenue
+Passenger 595: Columbia Heights to Naylor Road
+Passenger 612: U Street to Anacostia
+Passenger 629: U Street to Gallery Place
+Passenger 632: Gallery Place to Waterfront
+Passenger 647: Fort Totten to Waterfront
+Passenger 653: Archives to Waterfront
+Passenger 668: West Hyattsville to Navy Yard-Ballpark
+Passenger 672: Hyattsville Crossing to West Hyattsville
+Passenger 674: Shaw-Howard University to Anacostia
+Passenger 681: Fort Totten to Navy Yard-Ballpark
+Passenger 682: Fort Totten to Shaw-Howard University
+Passenger 689: Hyattsville Crossing to Navy Yard-Ballpark
+Passenger 690: Columbia Heights to Mount Vernon Square
+Passenger 697: Navy Yard-Ballpark to Southern Avenue
+Passenger 703: Southern Avenue to Naylor Road
+Passenger 705: U Street to Gallery Place
+Passenger 724: Fort Totten to Mount Vernon Square
+Passenger 738: Hyattsville Crossing to Shaw-Howard University
+Passenger 740: U Street to Archives
+Passenger 752: College Park-University of Maryland to Suitland
+Passenger 760: Hyattsville Crossing to Georgia Avenue-Petworth
+Passenger 766: Hyattsville Crossing to U Street
+Passenger 774: Fort Totten to L'Enfant Plaza
+Passenger 777: Waterfront to Branch Avenue
+Passenger 786: Fort Totten to Southern Avenue
+Passenger 788: Congress Heights to Southern Avenue
+Passenger 803: College Park-University of Maryland to L'Enfant Plaza
+Passenger 807: Anacostia to Southern Avenue
+Passenger 826: U Street to Naylor Road
+Passenger 828: Greenbelt to College Park-University of Maryland
+Passenger 847: West Hyattsville to L'Enfant Plaza
+Passenger 861: Columbia Heights to Suitland
+Passenger 864: Columbia Heights to Archives
+Passenger 874: Archives to Congress Heights
+Passenger 877: Greenbelt to Fort Totten
+Passenger 879: College Park-University of Maryland to Hyattsville Crossing
+Passenger 882: Waterfront to Branch Avenue
+Passenger 887: Greenbelt to Archives
+Passenger 923: Greenbelt to L'Enfant Plaza
+Passenger 928: West Hyattsville to Branch Avenue
+Passenger 929: Fort Totten to Navy Yard-Ballpark
+Passenger 941: Hyattsville Crossing to L'Enfant Plaza
+Passenger 942: Fort Totten to Naylor Road
+Passenger 944: Columbia Heights to Congress Heights
+Passenger 945: U Street to Archives
+Passenger 952: Greenbelt to Congress Heights
+Passenger 956: Columbia Heights to Waterfront
+Passenger 967: Southern Avenue to Suitland
+Passenger 971: L'Enfant Plaza to Branch Avenue
+Passenger 980: Columbia Heights to Suitland
+Passenger 1003: Waterfront to Branch Avenue
+Passenger 1007: Fort Totten to Southern Avenue
+Passenger 1012: West Hyattsville to Branch Avenue
+Passenger 1027: Georgia Avenue-Petworth to Gallery Place
+Passenger 1030: West Hyattsville to Shaw-Howard University
+Passenger 1038: Archives to L'Enfant Plaza
+Passenger 1044: Waterfront to Naylor Road
+Passenger 1045: Waterfront to Anacostia
+Passenger 1048: L'Enfant Plaza to Southern Avenue
+Passenger 1063: U Street to Southern Avenue
+Passenger 1064: Naylor Road to Branch Avenue
+Passenger 1071: Waterfront to Anacostia
+Passenger 1085: U Street to Waterfront
+Passenger 1086: Columbia Heights to Archives
+Passenger 1093: U Street to Naylor Road
+Passenger 1094: Waterfront to Southern Avenue
+Passenger 1113: College Park-University of Maryland to Gallery Place
+Passenger 1118: Waterfront to Navy Yard-Ballpark
+Passenger 1120: Georgia Avenue-Petworth to Gallery Place
+Passenger 1136: Mount Vernon Square to L'Enfant Plaza
+Passenger 1152: U Street to Anacostia
+Passenger 1171: Mount Vernon Square to Anacostia
+Passenger 1176: Shaw-Howard University to Suitland
+Passenger 1178: Fort Totten to U Street
+Passenger 1180: Anacostia to Southern Avenue
+Passenger 1181: Fort Totten to Congress Heights
+Passenger 1185: Fort Totten to Gallery Place
+Passenger 1198: Georgia Avenue-Petworth to Congress Heights
+Passenger 1210: College Park-University of Maryland to Waterfront
+Passenger 1215: L'Enfant Plaza to Anacostia
+Passenger 1216: Greenbelt to L'Enfant Plaza
+Passenger 1222: Columbia Heights to Archives
+Passenger 1227: Hyattsville Crossing to Shaw-Howard University
+Passenger 1228: Greenbelt to Suitland
+Passenger 1232: College Park-University of Maryland to Shaw-Howard University
+Passenger 1235: U Street to Shaw-Howard University
+Passenger 1245: Gallery Place to Suitland
+Passenger 1246: Suitland to Branch Avenue
+Passenger 1248: Fort Totten to Georgia Avenue-Petworth
+Passenger 1259: Anacostia to Southern Avenue
+Passenger 1263: College Park-University of Maryland to Gallery Place
+Passenger 1268: Georgia Avenue-Petworth to Naylor Road
+Passenger 1271: Hyattsville Crossing to Columbia Heights
+Passenger 1284: Hyattsville Crossing to Georgia Avenue-Petworth
+Passenger 1285: Archives to Anacostia
+Passenger 1294: U Street to Shaw-Howard University
+Passenger 1295: U Street to Gallery Place
+Passenger 1297: College Park-University of Maryland to Southern Avenue
+Passenger 1299: Hyattsville Crossing to Navy Yard-Ballpark
+Passenger 1300: U Street to L'Enfant Plaza
+Passenger 1302: Waterfront to Congress Heights
+Passenger 1304: Shaw-Howard University to Gallery Place
+Passenger 1311: Anacostia to Southern Avenue
+Passenger 1313: West Hyattsville to Mount Vernon Square
+Passenger 1324: Gallery Place to Branch Avenue
+Passenger 1328: Shaw-Howard University to Waterfront
+Passenger 1333: Navy Yard-Ballpark to Suitland
+Passenger 1334: College Park-University of Maryland to Columbia Heights
+Passenger 1335: Shaw-Howard University to Southern Avenue
+Passenger 1336: Shaw-Howard University to Waterfront
+Passenger 1345: Gallery Place to Navy Yard-Ballpark
+Passenger 1348: Navy Yard-Ballpark to Southern Avenue
+Passenger 1359: Fort Totten to U Street
+Passenger 1362: Hyattsville Crossing to Georgia Avenue-Petworth
+Passenger 1366: Archives to Congress Heights
+Passenger 1367: Hyattsville Crossing to Suitland
+Passenger 1375: Gallery Place to Congress Heights
+Passenger 1376: College Park-University of Maryland to Navy Yard-Ballpark
+Passenger 1379: Fort Totten to L'Enfant Plaza
+Passenger 1384: Shaw-Howard University to Mount Vernon Square
+Passenger 1386: West Hyattsville to Gallery Place
+Passenger 1391: Waterfront to Congress Heights
+Passenger 1398: Fort Totten to U Street
+Passenger 1399: Georgia Avenue-Petworth to Branch Avenue
+
+*** blue Line ***
+Passengers: 
+Passenger 4: Addison Road to Crystal City
+Passenger 11: Stadium-Armory to Braddock Road
+Passenger 12: Morgan Boulevard to Eastern Market
+Passenger 13: Eastern Market to L'Enfant Plaza
+Passenger 16: Capitol Heights to Eastern Market
+Passenger 19: Potomac Avenue to Eastern Market
+Passenger 23: Potomac Avenue to McPherson Square
+Passenger 31: Braddock Road to Franconia-Springfield
+Passenger 38: Largo to L'Enfant Plaza
+Passenger 40: Capitol South to Federal Center SW
+Passenger 41: Foggy Bottom-GWU to Potomac Yard
+Passenger 43: Metro Center to Rosslyn
+Passenger 58: King Street-Old Town to Van Dorn Street
+Passenger 59: Eastern Market to Foggy Bottom-GWU
+Passenger 63: Benning Road to Metro Center
+Passenger 64: Largo to Potomac Avenue
+Passenger 65: Farragut West to Arlington Cemetery
+Passenger 66: Capitol South to Federal Triangle
+Passenger 71: Addison Road to Arlington Cemetery
+Passenger 72: Potomac Avenue to L'Enfant Plaza
+Passenger 74: McPherson Square to Potomac Yard
+Passenger 85: Federal Center SW to King Street-Old Town
+Passenger 89: Capitol South to Farragut West
+Passenger 90: Federal Triangle to Rosslyn
+Passenger 94: Federal Center SW to Pentagon
+Passenger 105: Largo to Capitol Heights
+Passenger 106: Largo to Capitol South
+Passenger 121: Eastern Market to Federal Center SW
+Passenger 123: Arlington Cemetery to Franconia-Springfield
+Passenger 125: Capitol Heights to National Airport
+Passenger 133: Metro Center to National Airport
+Passenger 140: Farragut West to Rosslyn
+Passenger 148: Largo to King Street-Old Town
+Passenger 150: Eastern Market to Pentagon
+Passenger 159: Addison Road to McPherson Square
+Passenger 163: Federal Center SW to Metro Center
+Passenger 173: Rosslyn to Potomac Yard
+Passenger 176: Stadium-Armory to L'Enfant Plaza
+Passenger 179: L'Enfant Plaza to Metro Center
+Passenger 182: Addison Road to King Street-Old Town
+Passenger 189: Federal Center SW to Potomac Yard
+Passenger 197: Federal Triangle to Braddock Road
+Passenger 201: Federal Center SW to Pentagon City
+Passenger 206: Federal Triangle to Arlington Cemetery
+Passenger 208: Morgan Boulevard to Capitol South
+Passenger 210: Arlington Cemetery to Potomac Yard
+Passenger 214: Federal Center SW to Arlington Cemetery
+Passenger 216: Largo to Smithsonian
+Passenger 224: Capitol South to L'Enfant Plaza
+Passenger 228: Foggy Bottom-GWU to Braddock Road
+Passenger 229: Largo to Franconia-Springfield
+Passenger 231: Rosslyn to Pentagon City
+Passenger 244: Arlington Cemetery to National Airport
+Passenger 246: Capitol Heights to Braddock Road
+Passenger 260: Potomac Avenue to Eastern Market
+Passenger 262: Federal Triangle to Braddock Road
+Passenger 267: L'Enfant Plaza to Braddock Road
+Passenger 276: Capitol Heights to Smithsonian
+Passenger 277: Stadium-Armory to Franconia-Springfield
+Passenger 292: Braddock Road to Van Dorn Street
+Passenger 295: Federal Triangle to Pentagon
+Passenger 311: Potomac Avenue to L'Enfant Plaza
+Passenger 315: Metro Center to McPherson Square
+Passenger 318: Capitol Heights to Potomac Yard
+Passenger 322: McPherson Square to Van Dorn Street
+Passenger 337: Capitol South to Smithsonian
+Passenger 342: Pentagon City to Franconia-Springfield
+Passenger 343: Eastern Market to Smithsonian
+Passenger 356: Eastern Market to Pentagon
+Passenger 357: King Street-Old Town to Franconia-Springfield
+Passenger 359: Potomac Avenue to Braddock Road
+Passenger 360: Stadium-Armory to Federal Center SW
+Passenger 361: Largo to Federal Triangle
+Passenger 377: Potomac Avenue to L'Enfant Plaza
+Passenger 378: Morgan Boulevard to Arlington Cemetery
+Passenger 381: Van Dorn Street to Franconia-Springfield
+Passenger 382: Benning Road to McPherson Square
+Passenger 385: Smithsonian to Crystal City
+Passenger 387: Stadium-Armory to Arlington Cemetery
+Passenger 400: Potomac Yard to Braddock Road
+Passenger 402: Farragut West to National Airport
+Passenger 415: Crystal City to Van Dorn Street
+Passenger 418: Rosslyn to Franconia-Springfield
+Passenger 421: Addison Road to Eastern Market
+Passenger 423: Foggy Bottom-GWU to King Street-Old Town
+Passenger 426: Foggy Bottom-GWU to Arlington Cemetery
+Passenger 428: Addison Road to Potomac Yard
+Passenger 433: Metro Center to Arlington Cemetery
+Passenger 441: Eastern Market to Foggy Bottom-GWU
+Passenger 444: L'Enfant Plaza to Metro Center
+Passenger 453: Smithsonian to Potomac Yard
+Passenger 460: Capitol Heights to Metro Center
+Passenger 462: Farragut West to Pentagon City
+Passenger 468: Farragut West to Crystal City
+Passenger 469: Capitol South to Pentagon
+Passenger 480: Morgan Boulevard to Farragut West
+Passenger 485: Morgan Boulevard to Crystal City
+Passenger 488: Benning Road to Foggy Bottom-GWU
+Passenger 490: Benning Road to Arlington Cemetery
+Passenger 498: Capitol South to Braddock Road
+Passenger 499: L'Enfant Plaza to Braddock Road
+Passenger 501: Capitol South to Smithsonian
+Passenger 516: Benning Road to Farragut West
+Passenger 518: Largo to Federal Center SW
+Passenger 523: Benning Road to Farragut West
+Passenger 529: Farragut West to Foggy Bottom-GWU
+Passenger 535: Federal Triangle to Braddock Road
+Passenger 536: Addison Road to Federal Center SW
+Passenger 537: Benning Road to Braddock Road
+Passenger 547: Capitol Heights to Crystal City
+Passenger 555: Eastern Market to King Street-Old Town
+Passenger 556: Potomac Avenue to Crystal City
+Passenger 557: Benning Road to Foggy Bottom-GWU
+Passenger 559: Benning Road to Federal Triangle
+Passenger 569: Smithsonian to Crystal City
+Passenger 581: Benning Road to Federal Triangle
+Passenger 610: Crystal City to Franconia-Springfield
+Passenger 619: Federal Center SW to Braddock Road
+Passenger 624: Smithsonian to Rosslyn
+Passenger 627: Addison Road to L'Enfant Plaza
+Passenger 631: Addison Road to National Airport
+Passenger 645: Stadium-Armory to King Street-Old Town
+Passenger 649: Braddock Road to Franconia-Springfield
+Passenger 659: McPherson Square to Pentagon City
+Passenger 661: Addison Road to King Street-Old Town
+Passenger 663: Capitol South to Arlington Cemetery
+Passenger 666: King Street-Old Town to Franconia-Springfield
+Passenger 667: L'Enfant Plaza to Crystal City
+Passenger 671: Foggy Bottom-GWU to Pentagon
+Passenger 678: L'Enfant Plaza to National Airport
+Passenger 688: L'Enfant Plaza to Pentagon City
+Passenger 701: L'Enfant Plaza to Braddock Road
+Passenger 708: Foggy Bottom-GWU to Pentagon
+Passenger 710: Eastern Market to Smithsonian
+Passenger 715: Farragut West to National Airport
+Passenger 734: Smithsonian to Pentagon City
+Passenger 746: Morgan Boulevard to Franconia-Springfield
+Passenger 749: Addison Road to L'Enfant Plaza
+Passenger 753: Benning Road to Pentagon City
+Passenger 755: Morgan Boulevard to Benning Road
+Passenger 757: Largo to Morgan Boulevard
+Passenger 758: Stadium-Armory to Rosslyn
+Passenger 759: Potomac Avenue to Franconia-Springfield
+Passenger 770: Potomac Avenue to Eastern Market
+Passenger 771: Pentagon to Van Dorn Street
+Passenger 773: Smithsonian to Arlington Cemetery
+Passenger 784: Foggy Bottom-GWU to King Street-Old Town
+Passenger 800: Eastern Market to Farragut West
+Passenger 801: Foggy Bottom-GWU to Potomac Yard
+Passenger 808: Morgan Boulevard to King Street-Old Town
+Passenger 811: Foggy Bottom-GWU to Crystal City
+Passenger 816: Metro Center to Potomac Yard
+Passenger 818: Foggy Bottom-GWU to National Airport
+Passenger 821: Rosslyn to National Airport
+Passenger 829: Largo to Smithsonian
+Passenger 835: Smithsonian to National Airport
+Passenger 839: Stadium-Armory to Pentagon City
+Passenger 845: Morgan Boulevard to Stadium-Armory
+Passenger 856: McPherson Square to Arlington Cemetery
+Passenger 858: Smithsonian to Van Dorn Street
+Passenger 863: Stadium-Armory to McPherson Square
+Passenger 869: Potomac Avenue to King Street-Old Town
+Passenger 870: Largo to Morgan Boulevard
+Passenger 871: Stadium-Armory to Rosslyn
+Passenger 880: Eastern Market to Foggy Bottom-GWU
+Passenger 881: Capitol South to L'Enfant Plaza
+Passenger 883: Federal Triangle to Van Dorn Street
+Passenger 894: Potomac Avenue to L'Enfant Plaza
+Passenger 896: Benning Road to Federal Center SW
+Passenger 897: Federal Triangle to Potomac Yard
+Passenger 899: Federal Center SW to Arlington Cemetery
+Passenger 906: Smithsonian to McPherson Square
+Passenger 915: L'Enfant Plaza to Franconia-Springfield
+Passenger 920: Federal Center SW to Farragut West
+Passenger 921: Addison Road to Potomac Avenue
+Passenger 924: Federal Center SW to Arlington Cemetery
+Passenger 931: Pentagon to Crystal City
+Passenger 939: Arlington Cemetery to Van Dorn Street
+Passenger 949: Federal Triangle to Pentagon
+Passenger 958: Benning Road to Pentagon
+Passenger 965: Federal Center SW to Metro Center
+Passenger 974: Potomac Avenue to Federal Center SW
+Passenger 979: Eastern Market to Metro Center
+Passenger 981: Largo to Pentagon
+Passenger 998: Addison Road to McPherson Square
+Passenger 1006: Addison Road to Crystal City
+Passenger 1008: Farragut West to Crystal City
+Passenger 1015: Smithsonian to Foggy Bottom-GWU
+Passenger 1018: Potomac Avenue to Rosslyn
+Passenger 1028: Morgan Boulevard to L'Enfant Plaza
+Passenger 1029: Capitol Heights to Eastern Market
+Passenger 1032: Benning Road to Farragut West
+Passenger 1037: Largo to National Airport
+Passenger 1043: Benning Road to Eastern Market
+Passenger 1050: Foggy Bottom-GWU to Rosslyn
+Passenger 1066: Potomac Avenue to Federal Center SW
+Passenger 1088: Arlington Cemetery to Pentagon
+Passenger 1090: Capitol Heights to Capitol South
+Passenger 1092: Eastern Market to National Airport
+Passenger 1095: L'Enfant Plaza to Foggy Bottom-GWU
+Passenger 1098: Federal Triangle to Arlington Cemetery
+Passenger 1117: Crystal City to Van Dorn Street
+Passenger 1119: Metro Center to Crystal City
+Passenger 1127: Pentagon City to Potomac Yard
+Passenger 1129: L'Enfant Plaza to Van Dorn Street
+Passenger 1130: Foggy Bottom-GWU to Crystal City
+Passenger 1134: Arlington Cemetery to Potomac Yard
+Passenger 1138: McPherson Square to Foggy Bottom-GWU
+Passenger 1143: L'Enfant Plaza to Farragut West
+Passenger 1144: Capitol Heights to Federal Center SW
+Passenger 1149: Morgan Boulevard to Rosslyn
+Passenger 1153: Foggy Bottom-GWU to Franconia-Springfield
+Passenger 1158: Capitol Heights to King Street-Old Town
+Passenger 1161: Stadium-Armory to Potomac Yard
+Passenger 1162: Pentagon City to Crystal City
+Passenger 1166: Morgan Boulevard to National Airport
+Passenger 1168: Potomac Avenue to Capitol South
+Passenger 1169: Federal Center SW to National Airport
+Passenger 1172: Pentagon to King Street-Old Town
+Passenger 1173: Eastern Market to Van Dorn Street
+Passenger 1179: L'Enfant Plaza to Federal Triangle
+Passenger 1188: Farragut West to Van Dorn Street
+Passenger 1189: McPherson Square to Braddock Road
+Passenger 1190: Eastern Market to Pentagon
+Passenger 1191: Potomac Avenue to Smithsonian
+Passenger 1193: Capitol South to King Street-Old Town
+Passenger 1212: Farragut West to Rosslyn
+Passenger 1219: Capitol South to Crystal City
+Passenger 1220: L'Enfant Plaza to Metro Center
+Passenger 1223: Morgan Boulevard to Pentagon
+Passenger 1224: Stadium-Armory to Capitol South
+Passenger 1239: Farragut West to Pentagon
+Passenger 1243: Arlington Cemetery to Potomac Yard
+Passenger 1252: Benning Road to Franconia-Springfield
+Passenger 1256: McPherson Square to King Street-Old Town
+Passenger 1257: Capitol Heights to Capitol South
+Passenger 1264: Federal Center SW to Pentagon
+Passenger 1269: Metro Center to National Airport
+Passenger 1275: Pentagon to Pentagon City
+Passenger 1280: Eastern Market to Rosslyn
+Passenger 1293: Morgan Boulevard to Franconia-Springfield
+Passenger 1309: Morgan Boulevard to Eastern Market
+Passenger 1312: Morgan Boulevard to King Street-Old Town
+Passenger 1317: Addison Road to Van Dorn Street
+Passenger 1322: Smithsonian to McPherson Square
+Passenger 1329: Morgan Boulevard to Potomac Yard
+Passenger 1339: Addison Road to National Airport
+Passenger 1354: McPherson Square to Potomac Yard
+Passenger 1356: Federal Center SW to Franconia-Springfield
+Passenger 1363: Potomac Avenue to Pentagon
+Passenger 1364: L'Enfant Plaza to Smithsonian
+Passenger 1380: Van Dorn Street to Franconia-Springfield
+Passenger 1382: Morgan Boulevard to Crystal City
+Passenger 1392: Addison Road to Capitol Heights
+Passenger 1400: Morgan Boulevard to Metro Center
+
+*** yellow Line ***
+Passengers: 
+Passenger 10: National Airport to Potomac Yard
+Passenger 15: Braddock Road to Eisenhower Avenue
+Passenger 22: L'Enfant Plaza to King Street-Old Town
+Passenger 24: Gallery Place to King Street-Old Town
+Passenger 30: L'Enfant Plaza to National Airport
+Passenger 48: Mount Vernon Square to Crystal City
+Passenger 57: Crystal City to Huntington
+Passenger 67: Gallery Place to Pentagon
+Passenger 77: L'Enfant Plaza to Crystal City
+Passenger 84: Gallery Place to Braddock Road
+Passenger 97: Potomac Yard to Braddock Road
+Passenger 104: Archives to Eisenhower Avenue
+Passenger 110: Archives to Crystal City
+Passenger 139: Potomac Yard to Huntington
+Passenger 141: Braddock Road to King Street-Old Town
+Passenger 144: Braddock Road to King Street-Old Town
+Passenger 153: Mount Vernon Square to Eisenhower Avenue
+Passenger 160: National Airport to Potomac Yard
+Passenger 162: Crystal City to Huntington
+Passenger 164: Potomac Yard to Eisenhower Avenue
+Passenger 175: National Airport to Potomac Yard
+Passenger 177: L'Enfant Plaza to Huntington
+Passenger 180: Archives to Crystal City
+Passenger 186: National Airport to Potomac Yard
+Passenger 205: Gallery Place to King Street-Old Town
+Passenger 209: Pentagon City to King Street-Old Town
+Passenger 211: National Airport to King Street-Old Town
+Passenger 220: Mount Vernon Square to Braddock Road
+Passenger 221: Archives to Pentagon
+Passenger 230: L'Enfant Plaza to Crystal City
+Passenger 236: L'Enfant Plaza to Eisenhower Avenue
+Passenger 241: Gallery Place to King Street-Old Town
+Passenger 258: Mount Vernon Square to Huntington
+Passenger 285: Gallery Place to L'Enfant Plaza
+Passenger 289: Braddock Road to Eisenhower Avenue
+Passenger 299: Pentagon to National Airport
+Passenger 303: Mount Vernon Square to Pentagon City
+Passenger 309: Potomac Yard to Braddock Road
+Passenger 317: Mount Vernon Square to Crystal City
+Passenger 319: L'Enfant Plaza to Potomac Yard
+Passenger 320: Archives to Pentagon City
+Passenger 323: Archives to Huntington
+Passenger 332: Crystal City to King Street-Old Town
+Passenger 334: King Street-Old Town to Huntington
+Passenger 335: L'Enfant Plaza to Potomac Yard
+Passenger 346: Mount Vernon Square to Eisenhower Avenue
+Passenger 350: Mount Vernon Square to Potomac Yard
+Passenger 365: Crystal City to National Airport
+Passenger 372: Mount Vernon Square to Crystal City
+Passenger 373: Potomac Yard to Eisenhower Avenue
+Passenger 383: Braddock Road to King Street-Old Town
+Passenger 394: National Airport to Potomac Yard
+Passenger 403: Pentagon City to Crystal City
+Passenger 406: L'Enfant Plaza to Braddock Road
+Passenger 411: Mount Vernon Square to Potomac Yard
+Passenger 413: Mount Vernon Square to King Street-Old Town
+Passenger 414: Gallery Place to National Airport
+Passenger 416: Gallery Place to Crystal City
+Passenger 422: Pentagon to Pentagon City
+Passenger 424: L'Enfant Plaza to Huntington
+Passenger 438: L'Enfant Plaza to Crystal City
+Passenger 447: Braddock Road to Huntington
+Passenger 449: Pentagon City to National Airport
+Passenger 457: Archives to Crystal City
+Passenger 463: King Street-Old Town to Huntington
+Passenger 471: Gallery Place to National Airport
+Passenger 473: Braddock Road to Eisenhower Avenue
+Passenger 475: L'Enfant Plaza to Braddock Road
+Passenger 491: Eisenhower Avenue to Huntington
+Passenger 503: L'Enfant Plaza to National Airport
+Passenger 504: Pentagon City to Braddock Road
+Passenger 526: Archives to National Airport
+Passenger 548: L'Enfant Plaza to Huntington
+Passenger 549: Pentagon City to King Street-Old Town
+Passenger 553: Potomac Yard to Braddock Road
+Passenger 562: Archives to National Airport
+Passenger 587: National Airport to Eisenhower Avenue
+Passenger 589: Pentagon to Braddock Road
+Passenger 602: Pentagon to National Airport
+Passenger 608: King Street-Old Town to Eisenhower Avenue
+Passenger 616: L'Enfant Plaza to Huntington
+Passenger 633: Pentagon City to Crystal City
+Passenger 636: Pentagon City to Potomac Yard
+Passenger 650: L'Enfant Plaza to Eisenhower Avenue
+Passenger 652: Archives to Pentagon
+Passenger 656: Archives to King Street-Old Town
+Passenger 660: Pentagon to National Airport
+Passenger 669: Crystal City to Potomac Yard
+Passenger 670: Mount Vernon Square to Gallery Place
+Passenger 683: Pentagon City to Eisenhower Avenue
+Passenger 691: L'Enfant Plaza to Eisenhower Avenue
+Passenger 692: Mount Vernon Square to Braddock Road
+Passenger 709: Pentagon City to Eisenhower Avenue
+Passenger 711: Mount Vernon Square to Potomac Yard
+Passenger 721: Gallery Place to Pentagon City
+Passenger 722: Pentagon City to Huntington
+Passenger 730: L'Enfant Plaza to Pentagon
+Passenger 739: Archives to Huntington
+Passenger 756: Mount Vernon Square to Pentagon
+Passenger 762: Archives to Potomac Yard
+Passenger 769: Mount Vernon Square to L'Enfant Plaza
+Passenger 780: Pentagon City to National Airport
+Passenger 782: Mount Vernon Square to Pentagon
+Passenger 783: Crystal City to Eisenhower Avenue
+Passenger 785: Archives to Braddock Road
+Passenger 787: Potomac Yard to Huntington
+Passenger 791: National Airport to Huntington
+Passenger 809: Pentagon to Crystal City
+Passenger 813: Pentagon City to King Street-Old Town
+Passenger 814: Mount Vernon Square to Potomac Yard
+Passenger 825: L'Enfant Plaza to Eisenhower Avenue
+Passenger 827: Pentagon City to Crystal City
+Passenger 831: Gallery Place to Pentagon
+Passenger 832: Gallery Place to Crystal City
+Passenger 834: Pentagon to Eisenhower Avenue
+Passenger 836: Gallery Place to Pentagon
+Passenger 838: Gallery Place to Potomac Yard
+Passenger 841: Archives to Pentagon
+Passenger 844: Archives to Eisenhower Avenue
+Passenger 848: Potomac Yard to King Street-Old Town
+Passenger 859: Mount Vernon Square to Crystal City
+Passenger 862: Pentagon City to Braddock Road
+Passenger 865: L'Enfant Plaza to Potomac Yard
+Passenger 876: Gallery Place to Pentagon City
+Passenger 878: Gallery Place to Huntington
+Passenger 884: Pentagon to Eisenhower Avenue
+Passenger 886: Pentagon City to Eisenhower Avenue
+Passenger 902: Gallery Place to National Airport
+Passenger 903: Pentagon to King Street-Old Town
+Passenger 910: National Airport to Braddock Road
+Passenger 913: Gallery Place to Braddock Road
+Passenger 916: Archives to Pentagon City
+Passenger 917: Pentagon to Crystal City
+Passenger 927: Gallery Place to King Street-Old Town
+Passenger 932: Pentagon to Huntington
+Passenger 937: Mount Vernon Square to Archives
+Passenger 938: National Airport to Huntington
+Passenger 943: Pentagon to Eisenhower Avenue
+Passenger 955: Braddock Road to Huntington
+Passenger 966: Mount Vernon Square to Braddock Road
+Passenger 970: L'Enfant Plaza to National Airport
+Passenger 975: Archives to Potomac Yard
+Passenger 977: Pentagon City to National Airport
+Passenger 978: Mount Vernon Square to King Street-Old Town
+Passenger 983: Pentagon City to National Airport
+Passenger 986: Archives to Pentagon City
+Passenger 989: Potomac Yard to Braddock Road
+Passenger 990: National Airport to Braddock Road
+Passenger 991: Potomac Yard to King Street-Old Town
+Passenger 995: Pentagon to Braddock Road
+Passenger 1002: Pentagon to King Street-Old Town
+Passenger 1009: Crystal City to Braddock Road
+Passenger 1016: Mount Vernon Square to National Airport
+Passenger 1033: Gallery Place to King Street-Old Town
+Passenger 1034: Mount Vernon Square to Eisenhower Avenue
+Passenger 1041: Mount Vernon Square to Braddock Road
+Passenger 1047: Pentagon to Crystal City
+Passenger 1052: Pentagon to Braddock Road
+Passenger 1065: Gallery Place to L'Enfant Plaza
+Passenger 1068: Crystal City to Eisenhower Avenue
+Passenger 1070: Mount Vernon Square to King Street-Old Town
+Passenger 1074: Archives to Braddock Road
+Passenger 1082: Gallery Place to National Airport
+Passenger 1103: Gallery Place to Pentagon
+Passenger 1106: L'Enfant Plaza to Eisenhower Avenue
+Passenger 1114: Potomac Yard to King Street-Old Town
+Passenger 1122: Potomac Yard to Braddock Road
+Passenger 1125: Mount Vernon Square to Braddock Road
+Passenger 1131: Crystal City to Potomac Yard
+Passenger 1133: National Airport to Braddock Road
+Passenger 1142: Archives to Potomac Yard
+Passenger 1145: Braddock Road to Huntington
+Passenger 1147: Pentagon City to Braddock Road
+Passenger 1151: Gallery Place to Archives
+Passenger 1182: National Airport to King Street-Old Town
+Passenger 1184: Braddock Road to King Street-Old Town
+Passenger 1194: King Street-Old Town to Huntington
+Passenger 1204: Pentagon City to Eisenhower Avenue
+Passenger 1207: L'Enfant Plaza to Eisenhower Avenue
+Passenger 1214: Pentagon to King Street-Old Town
+Passenger 1217: Gallery Place to King Street-Old Town
+Passenger 1225: Archives to Eisenhower Avenue
+Passenger 1229: Mount Vernon Square to Archives
+Passenger 1230: Gallery Place to Pentagon
+Passenger 1238: Mount Vernon Square to Huntington
+Passenger 1249: Potomac Yard to King Street-Old Town
+Passenger 1251: Gallery Place to Potomac Yard
+Passenger 1253: National Airport to King Street-Old Town
+Passenger 1266: L'Enfant Plaza to King Street-Old Town
+Passenger 1279: L'Enfant Plaza to Potomac Yard
+Passenger 1283: National Airport to Eisenhower Avenue
+Passenger 1286: Archives to King Street-Old Town
+Passenger 1290: Archives to Braddock Road
+Passenger 1301: Potomac Yard to Huntington
+Passenger 1303: L'Enfant Plaza to Braddock Road
+Passenger 1321: Crystal City to Huntington
+Passenger 1325: Mount Vernon Square to Archives
+Passenger 1337: Pentagon City to Huntington
+Passenger 1340: Mount Vernon Square to Braddock Road
+Passenger 1342: Gallery Place to Braddock Road
+Passenger 1343: Archives to L'Enfant Plaza
+Passenger 1346: King Street-Old Town to Eisenhower Avenue
+Passenger 1351: Gallery Place to King Street-Old Town
+Passenger 1353: Pentagon to King Street-Old Town
+Passenger 1371: Gallery Place to Eisenhower Avenue
+Passenger 1373: Pentagon to Crystal City
+Passenger 1377: Gallery Place to King Street-Old Town
+Passenger 1381: Gallery Place to Huntington
+Passenger 1385: Braddock Road to King Street-Old Town
+Passenger 1395: L'Enfant Plaza to Crystal City
+
+*** silver Line ***
+Passengers: 
+Passenger 2: Eastern Market to Innovation Center
+Passenger 17: Addison Road to Rosslyn
+Passenger 32: Federal Center SW to Ballston-MU
+Passenger 35: Spring Hill to Reston Town Center
+Passenger 42: Addison Road to Rosslyn
+Passenger 46: L'Enfant Plaza to East Falls Church
+Passenger 53: Potomac Avenue to Eastern Market
+Passenger 62: East Falls Church to Reston Town Center
+Passenger 73: Potomac Avenue to Federal Triangle
+Passenger 76: Stadium-Armory to Rosslyn
+Passenger 78: Federal Center SW to Spring Hill
+Passenger 96: Potomac Avenue to Innovation Center
+Passenger 98: Clarendon to McLean
+Passenger 99: Eastern Market to Smithsonian
+Passenger 117: Smithsonian to Rosslyn
+Passenger 118: Rosslyn to Greensboro
+Passenger 124: Greensboro to Herndon
+Passenger 126: L'Enfant Plaza to Ashburn
+Passenger 136: Virginia Square-GMU to Innovation Center
+Passenger 145: Capitol South to Farragut West
+Passenger 149: Court House to Virginia Square-GMU
+Passenger 165: Federal Triangle to Court House
+Passenger 166: Rosslyn to Loudoun Gateway
+Passenger 169: Stadium-Armory to Federal Center SW
+Passenger 178: Morgan Boulevard to Addison Road
+Passenger 181: Clarendon to Spring Hill
+Passenger 183: East Falls Church to Ashburn
+Passenger 184: Federal Triangle to Clarendon
+Passenger 185: L'Enfant Plaza to Spring Hill
+Passenger 190: Capitol South to Herndon
+Passenger 193: Eastern Market to Ballston-MU
+Passenger 200: Morgan Boulevard to Federal Center SW
+Passenger 238: Smithsonian to Loudoun Gateway
+Passenger 252: Metro Center to Dulles International Airport
+Passenger 254: Smithsonian to Spring Hill
+Passenger 257: Federal Triangle to Clarendon
+Passenger 264: Stadium-Armory to Reston Town Center
+Passenger 266: Downtown Largo to Eastern Market
+Passenger 268: Stadium-Armory to Potomac Avenue
+Passenger 271: Capitol Heights to L'Enfant Plaza
+Passenger 282: Benning Road to Foggy Bottom-GWU
+Passenger 284: Benning Road to Stadium-Armory
+Passenger 286: Capitol South to Wiehle-Reston East
+Passenger 297: Federal Center SW to Smithsonian
+Passenger 301: Potomac Avenue to Spring Hill
+Passenger 302: Capitol Heights to Innovation Center
+Passenger 305: Morgan Boulevard to Reston Town Center
+Passenger 307: Metro Center to Innovation Center
+Passenger 308: Benning Road to Tysons
+Passenger 310: Potomac Avenue to L'Enfant Plaza
+Passenger 324: Tysons to Greensboro
+Passenger 331: Morgan Boulevard to McPherson Square
+Passenger 338: McLean to Reston Town Center
+Passenger 339: Eastern Market to Dulles International Airport
+Passenger 341: Stadium-Armory to East Falls Church
+Passenger 348: Tysons to Innovation Center
+Passenger 351: Morgan Boulevard to Virginia Square-GMU
+Passenger 352: Federal Triangle to Farragut West
+Passenger 355: Smithsonian to Dulles International Airport
+Passenger 362: Federal Center SW to Farragut West
+Passenger 367: L'Enfant Plaza to Dulles International Airport
+Passenger 368: Capitol South to McPherson Square
+Passenger 369: Court House to Virginia Square-GMU
+Passenger 379: Foggy Bottom-GWU to Reston Town Center
+Passenger 386: Court House to McLean
+Passenger 389: Capitol Heights to Innovation Center
+Passenger 391: McLean to Dulles International Airport
+Passenger 392: Herndon to Loudoun Gateway
+Passenger 398: Metro Center to Foggy Bottom-GWU
+Passenger 399: Capitol South to Ballston-MU
+Passenger 404: Metro Center to Rosslyn
+Passenger 443: McPherson Square to Virginia Square-GMU
+Passenger 450: Court House to Tysons
+Passenger 454: Morgan Boulevard to Federal Triangle
+Passenger 456: Ballston-MU to Tysons
+Passenger 476: Tysons to Dulles International Airport
+Passenger 477: Federal Center SW to Ballston-MU
+Passenger 481: Downtown Largo to Tysons
+Passenger 482: Stadium-Armory to Virginia Square-GMU
+Passenger 483: Rosslyn to Spring Hill
+Passenger 486: Benning Road to Wiehle-Reston East
+Passenger 493: Smithsonian to McLean
+Passenger 495: Foggy Bottom-GWU to McLean
+Passenger 497: McLean to Innovation Center
+Passenger 500: Addison Road to Tysons
+Passenger 506: Federal Center SW to Wiehle-Reston East
+Passenger 510: East Falls Church to Herndon
+Passenger 513: Stadium-Armory to Federal Triangle
+Passenger 521: Federal Center SW to East Falls Church
+Passenger 524: Smithsonian to Virginia Square-GMU
+Passenger 525: Potomac Avenue to Dulles International Airport
+Passenger 528: Federal Center SW to Herndon
+Passenger 530: Morgan Boulevard to Spring Hill
+Passenger 539: Metro Center to Reston Town Center
+Passenger 540: Smithsonian to Dulles International Airport
+Passenger 543: Capitol Heights to Potomac Avenue
+Passenger 554: Metro Center to East Falls Church
+Passenger 566: Benning Road to Virginia Square-GMU
+Passenger 570: Farragut West to Dulles International Airport
+Passenger 574: L'Enfant Plaza to Loudoun Gateway
+Passenger 576: McLean to Greensboro
+Passenger 580: Capitol South to L'Enfant Plaza
+Passenger 582: Stadium-Armory to East Falls Church
+Passenger 583: Potomac Avenue to Capitol South
+Passenger 586: Morgan Boulevard to Clarendon
+Passenger 592: Downtown Largo to McLean
+Passenger 593: Downtown Largo to Wiehle-Reston East
+Passenger 597: Potomac Avenue to Rosslyn
+Passenger 603: Morgan Boulevard to Loudoun Gateway
+Passenger 609: Downtown Largo to Reston Town Center
+Passenger 613: Eastern Market to McLean
+Passenger 615: Herndon to Dulles International Airport
+Passenger 623: Rosslyn to Clarendon
+Passenger 626: McPherson Square to Dulles International Airport
+Passenger 628: Spring Hill to Dulles International Airport
+Passenger 630: Potomac Avenue to Capitol South
+Passenger 635: Ballston-MU to Tysons
+Passenger 637: Virginia Square-GMU to McLean
+Passenger 639: Eastern Market to Herndon
+Passenger 641: Clarendon to Wiehle-Reston East
+Passenger 646: Capitol Heights to Federal Center SW
+Passenger 658: Downtown Largo to Capitol South
+Passenger 662: Federal Triangle to Loudoun Gateway
+Passenger 665: Greensboro to Spring Hill
+Passenger 684: Greensboro to Spring Hill
+Passenger 687: Downtown Largo to Smithsonian
+Passenger 707: Morgan Boulevard to Smithsonian
+Passenger 714: Capitol Heights to McPherson Square
+Passenger 716: Foggy Bottom-GWU to Greensboro
+Passenger 717: Capitol South to Dulles International Airport
+Passenger 719: Spring Hill to Ashburn
+Passenger 720: McPherson Square to Spring Hill
+Passenger 723: Federal Triangle to McLean
+Passenger 727: Capitol Heights to Benning Road
+Passenger 728: McLean to Wiehle-Reston East
+Passenger 731: Virginia Square-GMU to Herndon
+Passenger 736: Benning Road to Metro Center
+Passenger 737: Capitol Heights to Eastern Market
+Passenger 743: Metro Center to Court House
+Passenger 744: Capitol South to Federal Center SW
+Passenger 748: Capitol South to Loudoun Gateway
+Passenger 751: Benning Road to East Falls Church
+Passenger 754: Dulles International Airport to Loudoun Gateway
+Passenger 764: Potomac Avenue to East Falls Church
+Passenger 765: Addison Road to Potomac Avenue
+Passenger 767: Addison Road to Loudoun Gateway
+Passenger 776: Foggy Bottom-GWU to Ballston-MU
+Passenger 778: Addison Road to Clarendon
+Passenger 794: Court House to Wiehle-Reston East
+Passenger 799: Smithsonian to McLean
+Passenger 805: Tysons to Greensboro
+Passenger 815: Metro Center to Foggy Bottom-GWU
+Passenger 819: McPherson Square to Ballston-MU
+Passenger 823: Capitol South to Metro Center
+Passenger 824: Benning Road to East Falls Church
+Passenger 837: Morgan Boulevard to McLean
+Passenger 846: McPherson Square to Greensboro
+Passenger 868: Rosslyn to Ashburn
+Passenger 892: Downtown Largo to Capitol Heights
+Passenger 893: Capitol South to Wiehle-Reston East
+Passenger 900: Downtown Largo to L'Enfant Plaza
+Passenger 907: Farragut West to Ballston-MU
+Passenger 908: Stadium-Armory to McPherson Square
+Passenger 909: Clarendon to Greensboro
+Passenger 918: Farragut West to Wiehle-Reston East
+Passenger 919: Federal Center SW to Foggy Bottom-GWU
+Passenger 940: Wiehle-Reston East to Herndon
+Passenger 946: Addison Road to Greensboro
+Passenger 969: Rosslyn to East Falls Church
+Passenger 987: Benning Road to Innovation Center
+Passenger 992: Farragut West to East Falls Church
+Passenger 996: Stadium-Armory to Wiehle-Reston East
+Passenger 997: Potomac Avenue to Capitol South
+Passenger 1001: Federal Triangle to Virginia Square-GMU
+Passenger 1010: Federal Center SW to McLean
+Passenger 1013: Benning Road to Potomac Avenue
+Passenger 1019: McLean to Spring Hill
+Passenger 1025: East Falls Church to McLean
+Passenger 1026: Federal Triangle to Clarendon
+Passenger 1040: Farragut West to Foggy Bottom-GWU
+Passenger 1042: Metro Center to Loudoun Gateway
+Passenger 1062: Smithsonian to Court House
+Passenger 1069: Metro Center to Farragut West
+Passenger 1072: Downtown Largo to McPherson Square
+Passenger 1075: Smithsonian to Court House
+Passenger 1078: Farragut West to Reston Town Center
+Passenger 1081: Virginia Square-GMU to Dulles International Airport
+Passenger 1099: Stadium-Armory to Dulles International Airport
+Passenger 1102: Stadium-Armory to Potomac Avenue
+Passenger 1112: East Falls Church to Ashburn
+Passenger 1126: Rosslyn to Innovation Center
+Passenger 1140: Capitol South to East Falls Church
+Passenger 1141: Morgan Boulevard to Metro Center
+Passenger 1146: Capitol Heights to Ballston-MU
+Passenger 1148: Capitol Heights to Metro Center
+Passenger 1154: Virginia Square-GMU to Tysons
+Passenger 1155: Morgan Boulevard to Reston Town Center
+Passenger 1163: Farragut West to East Falls Church
+Passenger 1197: Capitol Heights to Metro Center
+Passenger 1202: Downtown Largo to Reston Town Center
+Passenger 1203: Federal Center SW to Farragut West
+Passenger 1206: Loudoun Gateway to Ashburn
+Passenger 1211: Capitol South to Wiehle-Reston East
+Passenger 1226: Rosslyn to Wiehle-Reston East
+Passenger 1242: Farragut West to Tysons
+Passenger 1258: L'Enfant Plaza to Innovation Center
+Passenger 1276: Virginia Square-GMU to Herndon
+Passenger 1278: Wiehle-Reston East to Loudoun Gateway
+Passenger 1291: Eastern Market to Greensboro
+Passenger 1292: Addison Road to Reston Town Center
+Passenger 1298: Federal Center SW to Court House
+Passenger 1305: Morgan Boulevard to Reston Town Center
+Passenger 1310: Potomac Avenue to Rosslyn
+Passenger 1315: Capitol Heights to Clarendon
+Passenger 1316: Farragut West to Greensboro
+Passenger 1318: Capitol Heights to Reston Town Center
+Passenger 1320: Benning Road to Stadium-Armory
+Passenger 1323: Potomac Avenue to Dulles International Airport
+Passenger 1332: Wiehle-Reston East to Loudoun Gateway
+Passenger 1338: Eastern Market to Foggy Bottom-GWU
+Passenger 1341: Smithsonian to McPherson Square
+Passenger 1350: Federal Triangle to Ballston-MU
+Passenger 1361: Potomac Avenue to Ashburn
+Passenger 1368: Stadium-Armory to Capitol South
+Passenger 1378: Addison Road to Loudoun Gateway
+Passenger 1389: Morgan Boulevard to McPherson Square
+Passenger 1396: Metro Center to Ashburn
+Passenger 1397: McPherson Square to Wiehle-Reston East
+
+*** orange Line ***
+Passengers: 
+Passenger 6: Capitol South to Foggy Bottom-GWU
+Passenger 7: Metro Center to Rosslyn
+Passenger 18: Deanwood to Ballston-MU
+Passenger 25: Federal Triangle to Virginia Square-GMU
+Passenger 28: Clarendon to West Falls Church
+Passenger 36: Eastern Market to McPherson Square
+Passenger 37: Minnesota Avenue to Dunn Loring
+Passenger 49: New Carrollton to Court House
+Passenger 51: West Falls Church to Dunn Loring
+Passenger 54: Landover to Potomac Avenue
+Passenger 68: Metro Center to East Falls Church
+Passenger 70: Capitol South to Federal Triangle
+Passenger 80: Minnesota Avenue to McPherson Square
+Passenger 81: Minnesota Avenue to Vienna
+Passenger 83: Landover to Foggy Bottom-GWU
+Passenger 86: Potomac Avenue to Dunn Loring
+Passenger 88: Court House to Vienna
+Passenger 91: Minnesota Avenue to Potomac Avenue
+Passenger 100: Minnesota Avenue to Virginia Square-GMU
+Passenger 101: McPherson Square to Foggy Bottom-GWU
+Passenger 103: New Carrollton to West Falls Church
+Passenger 120: New Carrollton to Metro Center
+Passenger 127: Potomac Avenue to Dunn Loring
+Passenger 130: Deanwood to Farragut West
+Passenger 134: Cheverly to Rosslyn
+Passenger 135: L'Enfant Plaza to Rosslyn
+Passenger 138: Minnesota Avenue to Farragut West
+Passenger 143: Eastern Market to Dunn Loring
+Passenger 151: Federal Center SW to Rosslyn
+Passenger 152: Foggy Bottom-GWU to Court House
+Passenger 154: New Carrollton to Capitol South
+Passenger 155: Cheverly to Capitol South
+Passenger 196: Metro Center to West Falls Church
+Passenger 198: Potomac Avenue to Court House
+Passenger 199: Federal Center SW to Virginia Square-GMU
+Passenger 203: Landover to Foggy Bottom-GWU
+Passenger 204: Landover to East Falls Church
+Passenger 217: McPherson Square to Virginia Square-GMU
+Passenger 218: Farragut West to Rosslyn
+Passenger 222: Capitol South to West Falls Church
+Passenger 226: Landover to Eastern Market
+Passenger 227: Federal Center SW to Farragut West
+Passenger 239: Landover to West Falls Church
+Passenger 242: Stadium-Armory to Clarendon
+Passenger 245: Cheverly to Ballston-MU
+Passenger 248: Rosslyn to Dunn Loring
+Passenger 270: Federal Center SW to Rosslyn
+Passenger 273: Landover to Capitol South
+Passenger 274: Potomac Avenue to Smithsonian
+Passenger 275: Deanwood to Ballston-MU
+Passenger 278: Potomac Avenue to Dunn Loring
+Passenger 281: Landover to Rosslyn
+Passenger 287: Deanwood to McPherson Square
+Passenger 296: Landover to Potomac Avenue
+Passenger 306: Minnesota Avenue to West Falls Church
+Passenger 312: McPherson Square to West Falls Church
+Passenger 325: Potomac Avenue to L'Enfant Plaza
+Passenger 326: McPherson Square to Virginia Square-GMU
+Passenger 330: Smithsonian to West Falls Church
+Passenger 333: New Carrollton to West Falls Church
+Passenger 354: Minnesota Avenue to Farragut West
+Passenger 358: Stadium-Armory to McPherson Square
+Passenger 363: Landover to Smithsonian
+Passenger 380: Virginia Square-GMU to Dunn Loring
+Passenger 384: Rosslyn to Vienna
+Passenger 407: Minnesota Avenue to Metro Center
+Passenger 420: McPherson Square to Farragut West
+Passenger 425: Potomac Avenue to Smithsonian
+Passenger 446: Eastern Market to West Falls Church
+Passenger 458: Federal Triangle to East Falls Church
+Passenger 459: Eastern Market to Ballston-MU
+Passenger 470: Potomac Avenue to Rosslyn
+Passenger 472: Federal Triangle to West Falls Church
+Passenger 511: Stadium-Armory to Dunn Loring
+Passenger 512: Rosslyn to Dunn Loring
+Passenger 517: Deanwood to Stadium-Armory
+Passenger 522: New Carrollton to West Falls Church
+Passenger 527: Smithsonian to Virginia Square-GMU
+Passenger 550: Landover to McPherson Square
+Passenger 558: Farragut West to East Falls Church
+Passenger 560: Minnesota Avenue to Virginia Square-GMU
+Passenger 563: Eastern Market to Rosslyn
+Passenger 564: Capitol South to Clarendon
+Passenger 567: McPherson Square to Foggy Bottom-GWU
+Passenger 571: Capitol South to Vienna
+Passenger 584: Farragut West to Foggy Bottom-GWU
+Passenger 585: Potomac Avenue to Virginia Square-GMU
+Passenger 590: Federal Triangle to Dunn Loring
+Passenger 591: Eastern Market to Vienna
+Passenger 594: L'Enfant Plaza to Ballston-MU
+Passenger 596: Potomac Avenue to Foggy Bottom-GWU
+Passenger 600: Federal Center SW to East Falls Church
+Passenger 607: Stadium-Armory to Federal Triangle
+Passenger 611: Landover to East Falls Church
+Passenger 614: Federal Triangle to Virginia Square-GMU
+Passenger 618: Capitol South to McPherson Square
+Passenger 621: New Carrollton to Farragut West
+Passenger 634: Deanwood to Smithsonian
+Passenger 643: Clarendon to Virginia Square-GMU
+Passenger 648: Capitol South to Clarendon
+Passenger 651: Deanwood to Vienna
+Passenger 654: Smithsonian to Dunn Loring
+Passenger 657: Potomac Avenue to Eastern Market
+Passenger 677: Capitol South to West Falls Church
+Passenger 679: Potomac Avenue to Foggy Bottom-GWU
+Passenger 680: Landover to Virginia Square-GMU
+Passenger 685: Federal Center SW to McPherson Square
+Passenger 686: East Falls Church to Vienna
+Passenger 694: Federal Center SW to Clarendon
+Passenger 695: Cheverly to Capitol South
+Passenger 702: Ballston-MU to Vienna
+Passenger 704: Stadium-Armory to Vienna
+Passenger 726: Deanwood to West Falls Church
+Passenger 732: Landover to Rosslyn
+Passenger 735: Stadium-Armory to L'Enfant Plaza
+Passenger 742: Minnesota Avenue to Federal Center SW
+Passenger 747: Stadium-Armory to Federal Triangle
+Passenger 750: Cheverly to Virginia Square-GMU
+Passenger 772: Potomac Avenue to Smithsonian
+Passenger 775: Dunn Loring to Vienna
+Passenger 779: Federal Center SW to Virginia Square-GMU
+Passenger 781: Stadium-Armory to Metro Center
+Passenger 792: Cheverly to Farragut West
+Passenger 795: Cheverly to Metro Center
+Passenger 802: New Carrollton to Farragut West
+Passenger 804: Potomac Avenue to Virginia Square-GMU
+Passenger 810: Cheverly to East Falls Church
+Passenger 812: Landover to Rosslyn
+Passenger 820: McPherson Square to Vienna
+Passenger 830: Federal Center SW to Farragut West
+Passenger 843: Farragut West to Virginia Square-GMU
+Passenger 850: Capitol South to Rosslyn
+Passenger 851: Capitol South to Federal Center SW
+Passenger 853: Capitol South to Court House
+Passenger 857: Federal Center SW to Clarendon
+Passenger 885: Farragut West to Virginia Square-GMU
+Passenger 888: L'Enfant Plaza to Federal Triangle
+Passenger 891: Farragut West to Foggy Bottom-GWU
+Passenger 895: Cheverly to Smithsonian
+Passenger 898: Eastern Market to Vienna
+Passenger 904: Smithsonian to Foggy Bottom-GWU
+Passenger 911: Deanwood to Smithsonian
+Passenger 930: Eastern Market to Virginia Square-GMU
+Passenger 934: East Falls Church to Dunn Loring
+Passenger 935: McPherson Square to East Falls Church
+Passenger 936: Smithsonian to West Falls Church
+Passenger 947: New Carrollton to McPherson Square
+Passenger 950: Potomac Avenue to West Falls Church
+Passenger 951: Court House to Dunn Loring
+Passenger 957: Deanwood to Court House
+Passenger 959: Federal Triangle to Farragut West
+Passenger 960: New Carrollton to Farragut West
+Passenger 961: Cheverly to Capitol South
+Passenger 962: Farragut West to Ballston-MU
+Passenger 973: Capitol South to Vienna
+Passenger 976: Cheverly to L'Enfant Plaza
+Passenger 982: Eastern Market to Dunn Loring
+Passenger 984: Foggy Bottom-GWU to Dunn Loring
+Passenger 985: Cheverly to McPherson Square
+Passenger 988: Smithsonian to Farragut West
+Passenger 999: Stadium-Armory to Vienna
+Passenger 1014: Metro Center to Clarendon
+Passenger 1017: Eastern Market to L'Enfant Plaza
+Passenger 1022: Potomac Avenue to Metro Center
+Passenger 1024: Deanwood to Farragut West
+Passenger 1036: Court House to Dunn Loring
+Passenger 1046: New Carrollton to Capitol South
+Passenger 1049: Cheverly to Foggy Bottom-GWU
+Passenger 1051: Stadium-Armory to Dunn Loring
+Passenger 1054: Federal Center SW to Court House
+Passenger 1055: Federal Triangle to Rosslyn
+Passenger 1057: Stadium-Armory to Ballston-MU
+Passenger 1058: Cheverly to Virginia Square-GMU
+Passenger 1061: Landover to Court House
+Passenger 1073: Minnesota Avenue to McPherson Square
+Passenger 1079: Federal Center SW to Rosslyn
+Passenger 1083: Cheverly to L'Enfant Plaza
+Passenger 1091: Eastern Market to Virginia Square-GMU
+Passenger 1096: Cheverly to Dunn Loring
+Passenger 1104: Federal Triangle to Clarendon
+Passenger 1105: L'Enfant Plaza to Smithsonian
+Passenger 1109: Deanwood to Foggy Bottom-GWU
+Passenger 1110: Court House to Dunn Loring
+Passenger 1115: Metro Center to Court House
+Passenger 1116: Court House to West Falls Church
+Passenger 1121: Potomac Avenue to Federal Center SW
+Passenger 1132: Stadium-Armory to L'Enfant Plaza
+Passenger 1135: Federal Triangle to Metro Center
+Passenger 1139: New Carrollton to Landover
+Passenger 1157: Potomac Avenue to Eastern Market
+Passenger 1159: L'Enfant Plaza to Smithsonian
+Passenger 1164: Deanwood to Potomac Avenue
+Passenger 1167: New Carrollton to Federal Triangle
+Passenger 1175: New Carrollton to Potomac Avenue
+Passenger 1177: Clarendon to Dunn Loring
+Passenger 1183: Farragut West to West Falls Church
+Passenger 1192: Eastern Market to Clarendon
+Passenger 1205: Federal Center SW to West Falls Church
+Passenger 1213: Cheverly to Rosslyn
+Passenger 1221: Cheverly to Dunn Loring
+Passenger 1236: Federal Center SW to Dunn Loring
+Passenger 1237: Eastern Market to Capitol South
+Passenger 1240: Farragut West to Foggy Bottom-GWU
+Passenger 1241: Federal Center SW to Rosslyn
+Passenger 1247: Ballston-MU to Vienna
+Passenger 1250: Potomac Avenue to McPherson Square
+Passenger 1255: Potomac Avenue to L'Enfant Plaza
+Passenger 1260: Stadium-Armory to Rosslyn
+Passenger 1261: Minnesota Avenue to Farragut West
+Passenger 1265: McPherson Square to Vienna
+Passenger 1273: New Carrollton to Landover
+Passenger 1277: Minnesota Avenue to Federal Center SW
+Passenger 1281: Stadium-Armory to Smithsonian
+Passenger 1282: Cheverly to Foggy Bottom-GWU
+Passenger 1287: Cheverly to Dunn Loring
+Passenger 1288: Federal Triangle to Ballston-MU
+Passenger 1289: Cheverly to Eastern Market
+Passenger 1296: West Falls Church to Dunn Loring
+Passenger 1307: Deanwood to Metro Center
+Passenger 1308: New Carrollton to Virginia Square-GMU
+Passenger 1314: Cheverly to Vienna
+Passenger 1344: Federal Center SW to West Falls Church
+Passenger 1347: Deanwood to Vienna
+Passenger 1349: Rosslyn to East Falls Church
+Passenger 1352: Foggy Bottom-GWU to Dunn Loring
+Passenger 1355: Deanwood to Court House
+Passenger 1357: Eastern Market to Capitol South
+Passenger 1370: Stadium-Armory to Ballston-MU
+Passenger 1387: Landover to Capitol South
+Passenger 1393: Eastern Market to Capitol South
+Passenger 1394: Deanwood to McPherson Square
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+3
+**red Line Total Earnings**
+$3607.50
+Total Stops:2886
+
+**green Line Total Earnings**
+$1997.50
+Total Stops:1598
+
+**blue Line Total Earnings**
+$3297.50
+Total Stops:2638
+
+**yellow Line Total Earnings**
+$1556.25
+Total Stops:1245
+
+**silver Line Total Earnings**
+$3571.25
+Total Stops:2857
+
+**orange Line Total Earnings**
+$3200.00
+Total Stops:2560
+
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+4
+Thank you for using the Metro

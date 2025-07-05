@@ -1,0 +1,10 @@
+1,red,Brookland-CUA,Forest Glen
+2,silver,Eastern Market,Innovation Center
+3,red,North Bethesda,Medical Center
+4,blue,Addison Road,Crystal City
+5,green,Anacostia,Suitland
+6,orange,Capitol South,Foggy Bottom-GWU
+7,orange,Metro Center,Rosslyn
+8,red,Shady Grove,Gallery Place
+9,red,Tenleytown-AU,Judiciary Square
+10,yellow,National Airport,Potomac Yard

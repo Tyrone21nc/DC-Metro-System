@@ -1,0 +1,343 @@
+
+*********************************
+Welcome to the Washington DC Metro
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+1
+
+**red Line Stops**
+1. Shady Grove(red)
+2. Rockville(red)
+3. Twinbrook(red)
+4. North Bethesda(red)
+5. Grosvenor-Strathmore(red)
+6. Medical Center(red)
+7. Bethesda(red)
+8. Friendship Heights(red)
+9. Tenleytown-AU(red)
+10. Van Ness-UDC(red)
+11. Cleveland Park(red)
+12. Woodley Park(red)
+13. Dupont Circle(red)
+14. Farragut North(red)
+15. Metro Center(red)
+16. Gallery Place(red)
+17. Judiciary Square(red)
+18. Union Station(red)
+19. NoMa-Gallaudet U(red)
+20. Rhode Island Avenue(red)
+21. Brookland-CUA(red)
+22. Fort Totten(red)
+23. Takoma(red)
+24. Silver Spring(red)
+25. Forest Glen(red)
+26. Wheaton(red)
+27. Glenmont(red)
+
+**green Line Stops**
+1. Greenbelt(green)
+2. College Park-University of Maryland(green)
+3. Hyattsville Crossing(green)
+4. West Hyattsville(green)
+5. Fort Totten(green)
+6. Georgia Avenue-Petworth(green)
+7. Columbia Heights(green)
+8. U Street(green)
+9. Shaw-Howard University(green)
+10. Mount Vernon Square(green)
+11. Gallery Place(green)
+12. Archives(green)
+13. L'Enfant Plaza(green)
+14. Waterfront(green)
+15. Navy Yard-Ballpark(green)
+16. Anacostia(green)
+17. Congress Heights(green)
+18. Southern Avenue(green)
+19. Naylor Road(green)
+20. Suitland(green)
+21. Branch Avenue(green)
+
+**blue Line Stops**
+1. Largo(blue)
+2. Morgan Boulevard(blue)
+3. Addison Road(blue)
+4. Capitol Heights(blue)
+5. Benning Road(blue)
+6. Stadium-Armory(blue)
+7. Potomac Avenue(blue)
+8. Eastern Market(blue)
+9. Capitol South(blue)
+10. Federal Center SW(blue)
+11. L'Enfant Plaza(blue)
+12. Smithsonian(blue)
+13. Federal Triangle(blue)
+14. Metro Center(blue)
+15. McPherson Square(blue)
+16. Farragut West(blue)
+17. Foggy Bottom-GWU(blue)
+18. Rosslyn(blue)
+19. Arlington Cemetery(blue)
+20. Pentagon(blue)
+21. Pentagon City(blue)
+22. Crystal City(blue)
+23. National Airport(blue)
+24. Potomac Yard(blue)
+25. Braddock Road(blue)
+26. King Street-Old Town(blue)
+27. Van Dorn Street(blue)
+28. Franconia-Springfield(blue)
+
+**yellow Line Stops**
+1. Mount Vernon Square(yellow)
+2. Gallery Place(yellow)
+3. Archives(yellow)
+4. L'Enfant Plaza(yellow)
+5. Pentagon(yellow)
+6. Pentagon City(yellow)
+7. Crystal City(yellow)
+8. National Airport(yellow)
+9. Potomac Yard(yellow)
+10. Braddock Road(yellow)
+11. King Street-Old Town(yellow)
+12. Eisenhower Avenue(yellow)
+13. Huntington(yellow)
+
+**silver Line Stops**
+1. Downtown Largo(silver)
+2. Morgan Boulevard(silver)
+3. Addison Road(silver)
+4. Capitol Heights(silver)
+5. Benning Road(silver)
+6. Stadium-Armory(silver)
+7. Potomac Avenue(silver)
+8. Eastern Market(silver)
+9. Capitol South(silver)
+10. Federal Center SW(silver)
+11. L'Enfant Plaza(silver)
+12. Smithsonian(silver)
+13. Federal Triangle(silver)
+14. Metro Center(silver)
+15. McPherson Square(silver)
+16. Farragut West(silver)
+17. Foggy Bottom-GWU(silver)
+18. Rosslyn(silver)
+19. Court House(silver)
+20. Clarendon(silver)
+21. Virginia Square-GMU(silver)
+22. Ballston-MU(silver)
+23. East Falls Church(silver)
+24. McLean(silver)
+25. Tysons(silver)
+26. Greensboro(silver)
+27. Spring Hill(silver)
+28. Wiehle-Reston East(silver)
+29. Reston Town Center(silver)
+30. Herndon(silver)
+31. Innovation Center(silver)
+32. Dulles International Airport(silver)
+33. Loudoun Gateway(silver)
+34. Ashburn(silver)
+
+**orange Line Stops**
+1. New Carrollton(orange)
+2. Landover(orange)
+3. Cheverly(orange)
+4. Deanwood(orange)
+5. Minnesota Avenue(orange)
+6. Stadium-Armory(orange)
+7. Potomac Avenue(orange)
+8. Eastern Market(orange)
+9. Capitol South(orange)
+10. Federal Center SW(orange)
+11. L'Enfant Plaza(orange)
+12. Smithsonian(orange)
+13. Federal Triangle(orange)
+14. Metro Center(orange)
+15. McPherson Square(orange)
+16. Farragut West(orange)
+17. Foggy Bottom-GWU(orange)
+18. Rosslyn(orange)
+19. Court House(orange)
+20. Clarendon(orange)
+21. Virginia Square-GMU(orange)
+22. Ballston-MU(orange)
+23. East Falls Church(orange)
+24. West Falls Church(orange)
+25. Dunn Loring(orange)
+26. Vienna(orange)
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+2
+
+*** red Line ***
+Passengers: 
+Passenger 1: Brookland-CUA to Forest Glen
+Passenger 3: North Bethesda to Medical Center
+Passenger 8: Shady Grove to Gallery Place
+Passenger 9: Tenleytown-AU to Judiciary Square
+Passenger 14: Grosvenor-Strathmore to Tenleytown-AU
+Passenger 20: Shady Grove to Woodley Park
+Passenger 21: Grosvenor-Strathmore to Friendship Heights
+Passenger 27: Judiciary Square to Union Station
+Passenger 39: Cleveland Park to Judiciary Square
+Passenger 50: Cleveland Park to Glenmont
+Passenger 52: Farragut North to Metro Center
+Passenger 55: Shady Grove to Fort Totten
+Passenger 56: Bethesda to Woodley Park
+Passenger 60: Woodley Park to Wheaton
+Passenger 61: Twinbrook to Forest Glen
+Passenger 69: Friendship Heights to Takoma
+Passenger 75: Friendship Heights to Metro Center
+Passenger 79: North Bethesda to Judiciary Square
+Passenger 82: North Bethesda to Brookland-CUA
+Passenger 87: Woodley Park to Forest Glen
+Passenger 93: Dupont Circle to Wheaton
+
+*** green Line ***
+Passengers: 
+Passenger 5: Anacostia to Suitland
+Passenger 26: Greenbelt to Hyattsville Crossing
+Passenger 29: Hyattsville Crossing to Branch Avenue
+Passenger 33: Greenbelt to Archives
+Passenger 34: Mount Vernon Square to Suitland
+Passenger 44: College Park-University of Maryland to U Street
+Passenger 45: Georgia Avenue-Petworth to U Street
+Passenger 47: Hyattsville Crossing to L'Enfant Plaza
+Passenger 92: Waterfront to Naylor Road
+Passenger 95: Fort Totten to Suitland
+
+*** blue Line ***
+Passengers: 
+Passenger 4: Addison Road to Crystal City
+Passenger 11: Stadium-Armory to Braddock Road
+Passenger 12: Morgan Boulevard to Eastern Market
+Passenger 13: Eastern Market to L'Enfant Plaza
+Passenger 16: Capitol Heights to Eastern Market
+Passenger 19: Potomac Avenue to Eastern Market
+Passenger 23: Potomac Avenue to McPherson Square
+Passenger 31: Braddock Road to Franconia-Springfield
+Passenger 38: Largo to L'Enfant Plaza
+Passenger 40: Capitol South to Federal Center SW
+Passenger 41: Foggy Bottom-GWU to Potomac Yard
+Passenger 43: Metro Center to Rosslyn
+Passenger 58: King Street-Old Town to Van Dorn Street
+Passenger 59: Eastern Market to Foggy Bottom-GWU
+Passenger 63: Benning Road to Metro Center
+Passenger 64: Largo to Potomac Avenue
+Passenger 65: Farragut West to Arlington Cemetery
+Passenger 66: Capitol South to Federal Triangle
+Passenger 71: Addison Road to Arlington Cemetery
+Passenger 72: Potomac Avenue to L'Enfant Plaza
+Passenger 74: McPherson Square to Potomac Yard
+Passenger 85: Federal Center SW to King Street-Old Town
+Passenger 89: Capitol South to Farragut West
+Passenger 90: Federal Triangle to Rosslyn
+Passenger 94: Federal Center SW to Pentagon
+
+*** yellow Line ***
+Passengers: 
+Passenger 10: National Airport to Potomac Yard
+Passenger 15: Braddock Road to Eisenhower Avenue
+Passenger 22: L'Enfant Plaza to King Street-Old Town
+Passenger 24: Gallery Place to King Street-Old Town
+Passenger 30: L'Enfant Plaza to National Airport
+Passenger 48: Mount Vernon Square to Crystal City
+Passenger 57: Crystal City to Huntington
+Passenger 67: Gallery Place to Pentagon
+Passenger 77: L'Enfant Plaza to Crystal City
+Passenger 84: Gallery Place to Braddock Road
+Passenger 97: Potomac Yard to Braddock Road
+
+*** silver Line ***
+Passengers: 
+Passenger 2: Eastern Market to Innovation Center
+Passenger 17: Addison Road to Rosslyn
+Passenger 32: Federal Center SW to Ballston-MU
+Passenger 35: Spring Hill to Reston Town Center
+Passenger 42: Addison Road to Rosslyn
+Passenger 46: L'Enfant Plaza to East Falls Church
+Passenger 53: Potomac Avenue to Eastern Market
+Passenger 62: East Falls Church to Reston Town Center
+Passenger 73: Potomac Avenue to Federal Triangle
+Passenger 76: Stadium-Armory to Rosslyn
+Passenger 78: Federal Center SW to Spring Hill
+Passenger 96: Potomac Avenue to Innovation Center
+Passenger 98: Clarendon to McLean
+Passenger 99: Eastern Market to Smithsonian
+
+*** orange Line ***
+Passengers: 
+Passenger 6: Capitol South to Foggy Bottom-GWU
+Passenger 7: Metro Center to Rosslyn
+Passenger 18: Deanwood to Ballston-MU
+Passenger 25: Federal Triangle to Virginia Square-GMU
+Passenger 28: Clarendon to West Falls Church
+Passenger 36: Eastern Market to McPherson Square
+Passenger 37: Minnesota Avenue to Dunn Loring
+Passenger 49: New Carrollton to Court House
+Passenger 51: West Falls Church to Dunn Loring
+Passenger 54: Landover to Potomac Avenue
+Passenger 68: Metro Center to East Falls Church
+Passenger 70: Capitol South to Federal Triangle
+Passenger 80: Minnesota Avenue to McPherson Square
+Passenger 81: Minnesota Avenue to Vienna
+Passenger 83: Landover to Foggy Bottom-GWU
+Passenger 86: Potomac Avenue to Dunn Loring
+Passenger 88: Court House to Vienna
+Passenger 91: Minnesota Avenue to Potomac Avenue
+Passenger 100: Minnesota Avenue to Virginia Square-GMU
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+3
+**red Line Total Earnings**
+$290.00
+Total Stops:232
+
+**green Line Total Earnings**
+$116.25
+Total Stops:93
+
+**blue Line Total Earnings**
+$261.25
+Total Stops:209
+
+**yellow Line Total Earnings**
+$76.25
+Total Stops:61
+
+**silver Line Total Earnings**
+$208.75
+Total Stops:167
+
+**orange Line Total Earnings**
+$267.50
+Total Stops:214
+
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+0
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+5
+What would you like to do?: 
+1. Display Lines
+2. Display Passengers by Line
+3. Calculate Earnings by Line
+4. Exit
+4
+Thank you for using the Metro

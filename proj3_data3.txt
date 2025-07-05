@@ -1,0 +1,1400 @@
+1,red,Brookland-CUA,Forest Glen
+2,silver,Eastern Market,Innovation Center
+3,red,North Bethesda,Medical Center
+4,blue,Addison Road,Crystal City
+5,green,Anacostia,Suitland
+6,orange,Capitol South,Foggy Bottom-GWU
+7,orange,Metro Center,Rosslyn
+8,red,Shady Grove,Gallery Place
+9,red,Tenleytown-AU,Judiciary Square
+10,yellow,National Airport,Potomac Yard
+11,blue,Stadium-Armory,Braddock Road
+12,blue,Morgan Boulevard,Eastern Market
+13,blue,Eastern Market,L'Enfant Plaza
+14,red,Grosvenor-Strathmore,Tenleytown-AU
+15,yellow,Braddock Road,Eisenhower Avenue
+16,blue,Capitol Heights,Eastern Market
+17,silver,Addison Road,Rosslyn
+18,orange,Deanwood,Ballston-MU
+19,blue,Potomac Avenue,Eastern Market
+20,red,Shady Grove,Woodley Park
+21,red,Grosvenor-Strathmore,Friendship Heights
+22,yellow,L'Enfant Plaza,King Street-Old Town
+23,blue,Potomac Avenue,McPherson Square
+24,yellow,Gallery Place,King Street-Old Town
+25,orange,Federal Triangle,Virginia Square-GMU
+26,green,Greenbelt,Hyattsville Crossing
+27,red,Judiciary Square,Union Station
+28,orange,Clarendon,West Falls Church
+29,green,Hyattsville Crossing,Branch Avenue
+30,yellow,L'Enfant Plaza,National Airport
+31,blue,Braddock Road,Franconia-Springfield
+32,silver,Federal Center SW,Ballston-MU
+33,green,Greenbelt,Archives
+34,green,Mount Vernon Square,Suitland
+35,silver,Spring Hill,Reston Town Center
+36,orange,Eastern Market,McPherson Square
+37,orange,Minnesota Avenue,Dunn Loring
+38,blue,Largo,L'Enfant Plaza
+39,red,Cleveland Park,Judiciary Square
+40,blue,Capitol South,Federal Center SW
+41,blue,Foggy Bottom-GWU,Potomac Yard
+42,silver,Addison Road,Rosslyn
+43,blue,Metro Center,Rosslyn
+44,green,College Park-University of Maryland,U Street
+45,green,Georgia Avenue-Petworth,U Street
+46,silver,L'Enfant Plaza,East Falls Church
+47,green,Hyattsville Crossing,L'Enfant Plaza
+48,yellow,Mount Vernon Square,Crystal City
+49,orange,New Carrollton,Court House
+50,red,Cleveland Park,Glenmont
+51,orange,West Falls Church,Dunn Loring
+52,red,Farragut North,Metro Center
+53,silver,Potomac Avenue,Eastern Market
+54,orange,Landover,Potomac Avenue
+55,red,Shady Grove,Fort Totten
+56,red,Bethesda,Woodley Park
+57,yellow,Crystal City,Huntington
+58,blue,King Street-Old Town,Van Dorn Street
+59,blue,Eastern Market,Foggy Bottom-GWU
+60,red,Woodley Park,Wheaton
+61,red,Twinbrook,Forest Glen
+62,silver,East Falls Church,Reston Town Center
+63,blue,Benning Road,Metro Center
+64,blue,Largo,Potomac Avenue
+65,blue,Farragut West,Arlington Cemetery
+66,blue,Capitol South,Federal Triangle
+67,yellow,Gallery Place,Pentagon
+68,orange,Metro Center,East Falls Church
+69,red,Friendship Heights,Takoma
+70,orange,Capitol South,Federal Triangle
+71,blue,Addison Road,Arlington Cemetery
+72,blue,Potomac Avenue,L'Enfant Plaza
+73,silver,Potomac Avenue,Federal Triangle
+74,blue,McPherson Square,Potomac Yard
+75,red,Friendship Heights,Metro Center
+76,silver,Stadium-Armory,Rosslyn
+77,yellow,L'Enfant Plaza,Crystal City
+78,silver,Federal Center SW,Spring Hill
+79,red,North Bethesda,Judiciary Square
+80,orange,Minnesota Avenue,McPherson Square
+81,orange,Minnesota Avenue,Vienna
+82,red,North Bethesda,Brookland-CUA
+83,orange,Landover,Foggy Bottom-GWU
+84,yellow,Gallery Place,Braddock Road
+85,blue,Federal Center SW,King Street-Old Town
+86,orange,Potomac Avenue,Dunn Loring
+87,red,Woodley Park,Forest Glen
+88,orange,Court House,Vienna
+89,blue,Capitol South,Farragut West
+90,blue,Federal Triangle,Rosslyn
+91,orange,Minnesota Avenue,Potomac Avenue
+92,green,Waterfront,Naylor Road
+93,red,Dupont Circle,Wheaton
+94,blue,Federal Center SW,Pentagon
+95,green,Fort Totten,Suitland
+96,silver,Potomac Avenue,Innovation Center
+97,yellow,Potomac Yard,Braddock Road
+98,silver,Clarendon,McLean
+99,silver,Eastern Market,Smithsonian
+100,orange,Minnesota Avenue,Virginia Square-GMU
+101,orange,McPherson Square,Foggy Bottom-GWU
+102,red,Grosvenor-Strathmore,Brookland-CUA
+103,orange,New Carrollton,West Falls Church
+104,yellow,Archives,Eisenhower Avenue
+105,blue,Largo,Capitol Heights
+106,blue,Largo,Capitol South
+107,green,Southern Avenue,Naylor Road
+108,red,Union Station,Rhode Island Avenue
+109,red,Friendship Heights,Tenleytown-AU
+110,yellow,Archives,Crystal City
+111,red,Farragut North,Fort Totten
+112,red,Rhode Island Avenue,Wheaton
+113,red,Brookland-CUA,Glenmont
+114,green,Columbia Heights,L'Enfant Plaza
+115,green,Hyattsville Crossing,U Street
+116,green,Hyattsville Crossing,U Street
+117,silver,Smithsonian,Rosslyn
+118,silver,Rosslyn,Greensboro
+119,red,Rockville,Van Ness-UDC
+120,orange,New Carrollton,Metro Center
+121,blue,Eastern Market,Federal Center SW
+122,green,Georgia Avenue-Petworth,Mount Vernon Square
+123,blue,Arlington Cemetery,Franconia-Springfield
+124,silver,Greensboro,Herndon
+125,blue,Capitol Heights,National Airport
+126,silver,L'Enfant Plaza,Ashburn
+127,orange,Potomac Avenue,Dunn Loring
+128,green,Georgia Avenue-Petworth,Shaw-Howard University
+129,red,Rockville,Brookland-CUA
+130,orange,Deanwood,Farragut West
+131,red,Medical Center,Glenmont
+132,red,North Bethesda,Friendship Heights
+133,blue,Metro Center,National Airport
+134,orange,Cheverly,Rosslyn
+135,orange,L'Enfant Plaza,Rosslyn
+136,silver,Virginia Square-GMU,Innovation Center
+137,red,Cleveland Park,Judiciary Square
+138,orange,Minnesota Avenue,Farragut West
+139,yellow,Potomac Yard,Huntington
+140,blue,Farragut West,Rosslyn
+141,yellow,Braddock Road,King Street-Old Town
+142,green,West Hyattsville,Naylor Road
+143,orange,Eastern Market,Dunn Loring
+144,yellow,Braddock Road,King Street-Old Town
+145,silver,Capitol South,Farragut West
+146,red,Union Station,Rhode Island Avenue
+147,green,U Street,Waterfront
+148,blue,Largo,King Street-Old Town
+149,silver,Court House,Virginia Square-GMU
+150,blue,Eastern Market,Pentagon
+151,orange,Federal Center SW,Rosslyn
+152,orange,Foggy Bottom-GWU,Court House
+153,yellow,Mount Vernon Square,Eisenhower Avenue
+154,orange,New Carrollton,Capitol South
+155,orange,Cheverly,Capitol South
+156,green,Georgia Avenue-Petworth,Southern Avenue
+157,red,North Bethesda,Wheaton
+158,red,Metro Center,Wheaton
+159,blue,Addison Road,McPherson Square
+160,yellow,National Airport,Potomac Yard
+161,red,Forest Glen,Glenmont
+162,yellow,Crystal City,Huntington
+163,blue,Federal Center SW,Metro Center
+164,yellow,Potomac Yard,Eisenhower Avenue
+165,silver,Federal Triangle,Court House
+166,silver,Rosslyn,Loudoun Gateway
+167,red,Woodley Park,Union Station
+168,green,West Hyattsville,Southern Avenue
+169,silver,Stadium-Armory,Federal Center SW
+170,red,Woodley Park,Brookland-CUA
+171,red,Tenleytown-AU,Brookland-CUA
+172,green,Mount Vernon Square,Anacostia
+173,blue,Rosslyn,Potomac Yard
+174,red,Tenleytown-AU,Metro Center
+175,yellow,National Airport,Potomac Yard
+176,blue,Stadium-Armory,L'Enfant Plaza
+177,yellow,L'Enfant Plaza,Huntington
+178,silver,Morgan Boulevard,Addison Road
+179,blue,L'Enfant Plaza,Metro Center
+180,yellow,Archives,Crystal City
+181,silver,Clarendon,Spring Hill
+182,blue,Addison Road,King Street-Old Town
+183,silver,East Falls Church,Ashburn
+184,silver,Federal Triangle,Clarendon
+185,silver,L'Enfant Plaza,Spring Hill
+186,yellow,National Airport,Potomac Yard
+187,red,Bethesda,Forest Glen
+188,red,Fort Totten,Wheaton
+189,blue,Federal Center SW,Potomac Yard
+190,silver,Capitol South,Herndon
+191,green,Georgia Avenue-Petworth,Columbia Heights
+192,green,West Hyattsville,Gallery Place
+193,silver,Eastern Market,Ballston-MU
+194,green,Mount Vernon Square,Gallery Place
+195,red,Woodley Park,Dupont Circle
+196,orange,Metro Center,West Falls Church
+197,blue,Federal Triangle,Braddock Road
+198,orange,Potomac Avenue,Court House
+199,orange,Federal Center SW,Virginia Square-GMU
+200,silver,Morgan Boulevard,Federal Center SW
+201,blue,Federal Center SW,Pentagon City
+202,red,Shady Grove,Glenmont
+203,orange,Landover,Foggy Bottom-GWU
+204,orange,Landover,East Falls Church
+205,yellow,Gallery Place,King Street-Old Town
+206,blue,Federal Triangle,Arlington Cemetery
+207,red,Twinbrook,Forest Glen
+208,blue,Morgan Boulevard,Capitol South
+209,yellow,Pentagon City,King Street-Old Town
+210,blue,Arlington Cemetery,Potomac Yard
+211,yellow,National Airport,King Street-Old Town
+212,green,Columbia Heights,Suitland
+213,green,Shaw-Howard University,Archives
+214,blue,Federal Center SW,Arlington Cemetery
+215,red,Rhode Island Avenue,Takoma
+216,blue,Largo,Smithsonian
+217,orange,McPherson Square,Virginia Square-GMU
+218,orange,Farragut West,Rosslyn
+219,red,Friendship Heights,Union Station
+220,yellow,Mount Vernon Square,Braddock Road
+221,yellow,Archives,Pentagon
+222,orange,Capitol South,West Falls Church
+223,red,Rockville,NoMa-Gallaudet U
+224,blue,Capitol South,L'Enfant Plaza
+225,green,Gallery Place,Suitland
+226,orange,Landover,Eastern Market
+227,orange,Federal Center SW,Farragut West
+228,blue,Foggy Bottom-GWU,Braddock Road
+229,blue,Largo,Franconia-Springfield
+230,yellow,L'Enfant Plaza,Crystal City
+231,blue,Rosslyn,Pentagon City
+232,red,Union Station,Takoma
+233,red,Rockville,Forest Glen
+234,green,Archives,Congress Heights
+235,green,College Park-University of Maryland,Archives
+236,yellow,L'Enfant Plaza,Eisenhower Avenue
+237,green,U Street,Shaw-Howard University
+238,silver,Smithsonian,Loudoun Gateway
+239,orange,Landover,West Falls Church
+240,green,L'Enfant Plaza,Branch Avenue
+241,yellow,Gallery Place,King Street-Old Town
+242,orange,Stadium-Armory,Clarendon
+243,red,Grosvenor-Strathmore,Forest Glen
+244,blue,Arlington Cemetery,National Airport
+245,orange,Cheverly,Ballston-MU
+246,blue,Capitol Heights,Braddock Road
+247,green,Greenbelt,L'Enfant Plaza
+248,orange,Rosslyn,Dunn Loring
+249,red,Dupont Circle,Union Station
+250,green,Mount Vernon Square,Archives
+251,green,U Street,Suitland
+252,silver,Metro Center,Dulles International Airport
+253,red,North Bethesda,Takoma
+254,silver,Smithsonian,Spring Hill
+255,red,Forest Glen,Glenmont
+256,green,Navy Yard-Ballpark,Naylor Road
+257,silver,Federal Triangle,Clarendon
+258,yellow,Mount Vernon Square,Huntington
+259,green,Fort Totten,Southern Avenue
+260,blue,Potomac Avenue,Eastern Market
+261,green,Gallery Place,Waterfront
+262,blue,Federal Triangle,Braddock Road
+263,red,Twinbrook,Glenmont
+264,silver,Stadium-Armory,Reston Town Center
+265,green,Georgia Avenue-Petworth,Shaw-Howard University
+266,silver,Downtown Largo,Eastern Market
+267,blue,L'Enfant Plaza,Braddock Road
+268,silver,Stadium-Armory,Potomac Avenue
+269,red,Rockville,Gallery Place
+270,orange,Federal Center SW,Rosslyn
+271,silver,Capitol Heights,L'Enfant Plaza
+272,green,West Hyattsville,Columbia Heights
+273,orange,Landover,Capitol South
+274,orange,Potomac Avenue,Smithsonian
+275,orange,Deanwood,Ballston-MU
+276,blue,Capitol Heights,Smithsonian
+277,blue,Stadium-Armory,Franconia-Springfield
+278,orange,Potomac Avenue,Dunn Loring
+279,red,Shady Grove,Bethesda
+280,green,Gallery Place,Anacostia
+281,orange,Landover,Rosslyn
+282,silver,Benning Road,Foggy Bottom-GWU
+283,red,Van Ness-UDC,Silver Spring
+284,silver,Benning Road,Stadium-Armory
+285,yellow,Gallery Place,L'Enfant Plaza
+286,silver,Capitol South,Wiehle-Reston East
+287,orange,Deanwood,McPherson Square
+288,green,Gallery Place,Branch Avenue
+289,yellow,Braddock Road,Eisenhower Avenue
+290,red,Rockville,Silver Spring
+291,green,Archives,L'Enfant Plaza
+292,blue,Braddock Road,Van Dorn Street
+293,red,Gallery Place,Wheaton
+294,green,Greenbelt,Waterfront
+295,blue,Federal Triangle,Pentagon
+296,orange,Landover,Potomac Avenue
+297,silver,Federal Center SW,Smithsonian
+298,red,Van Ness-UDC,Farragut North
+299,yellow,Pentagon,National Airport
+300,green,Congress Heights,Suitland
+301,silver,Potomac Avenue,Spring Hill
+302,silver,Capitol Heights,Innovation Center
+303,yellow,Mount Vernon Square,Pentagon City
+304,green,Congress Heights,Naylor Road
+305,silver,Morgan Boulevard,Reston Town Center
+306,orange,Minnesota Avenue,West Falls Church
+307,silver,Metro Center,Innovation Center
+308,silver,Benning Road,Tysons
+309,yellow,Potomac Yard,Braddock Road
+310,silver,Potomac Avenue,L'Enfant Plaza
+311,blue,Potomac Avenue,L'Enfant Plaza
+312,orange,McPherson Square,West Falls Church
+313,red,Medical Center,Takoma
+314,green,College Park-University of Maryland,Naylor Road
+315,blue,Metro Center,McPherson Square
+316,red,Shady Grove,Judiciary Square
+317,yellow,Mount Vernon Square,Crystal City
+318,blue,Capitol Heights,Potomac Yard
+319,yellow,L'Enfant Plaza,Potomac Yard
+320,yellow,Archives,Pentagon City
+321,red,Farragut North,Judiciary Square
+322,blue,McPherson Square,Van Dorn Street
+323,yellow,Archives,Huntington
+324,silver,Tysons,Greensboro
+325,orange,Potomac Avenue,L'Enfant Plaza
+326,orange,McPherson Square,Virginia Square-GMU
+327,red,North Bethesda,Takoma
+328,green,West Hyattsville,Georgia Avenue-Petworth
+329,red,Cleveland Park,Wheaton
+330,orange,Smithsonian,West Falls Church
+331,silver,Morgan Boulevard,McPherson Square
+332,yellow,Crystal City,King Street-Old Town
+333,orange,New Carrollton,West Falls Church
+334,yellow,King Street-Old Town,Huntington
+335,yellow,L'Enfant Plaza,Potomac Yard
+336,red,Twinbrook,Takoma
+337,blue,Capitol South,Smithsonian
+338,silver,McLean,Reston Town Center
+339,silver,Eastern Market,Dulles International Airport
+340,green,U Street,Branch Avenue
+341,silver,Stadium-Armory,East Falls Church
+342,blue,Pentagon City,Franconia-Springfield
+343,blue,Eastern Market,Smithsonian
+344,red,Gallery Place,Judiciary Square
+345,green,Waterfront,Navy Yard-Ballpark
+346,yellow,Mount Vernon Square,Eisenhower Avenue
+347,green,Archives,Waterfront
+348,silver,Tysons,Innovation Center
+349,green,Gallery Place,L'Enfant Plaza
+350,yellow,Mount Vernon Square,Potomac Yard
+351,silver,Morgan Boulevard,Virginia Square-GMU
+352,silver,Federal Triangle,Farragut West
+353,red,Farragut North,Forest Glen
+354,orange,Minnesota Avenue,Farragut West
+355,silver,Smithsonian,Dulles International Airport
+356,blue,Eastern Market,Pentagon
+357,blue,King Street-Old Town,Franconia-Springfield
+358,orange,Stadium-Armory,McPherson Square
+359,blue,Potomac Avenue,Braddock Road
+360,blue,Stadium-Armory,Federal Center SW
+361,blue,Largo,Federal Triangle
+362,silver,Federal Center SW,Farragut West
+363,orange,Landover,Smithsonian
+364,green,Suitland,Branch Avenue
+365,yellow,Crystal City,National Airport
+366,green,Mount Vernon Square,Congress Heights
+367,silver,L'Enfant Plaza,Dulles International Airport
+368,silver,Capitol South,McPherson Square
+369,silver,Court House,Virginia Square-GMU
+370,red,Bethesda,Wheaton
+371,red,Fort Totten,Silver Spring
+372,yellow,Mount Vernon Square,Crystal City
+373,yellow,Potomac Yard,Eisenhower Avenue
+374,red,Van Ness-UDC,Glenmont
+375,red,Twinbrook,Silver Spring
+376,red,Rockville,Silver Spring
+377,blue,Potomac Avenue,L'Enfant Plaza
+378,blue,Morgan Boulevard,Arlington Cemetery
+379,silver,Foggy Bottom-GWU,Reston Town Center
+380,orange,Virginia Square-GMU,Dunn Loring
+381,blue,Van Dorn Street,Franconia-Springfield
+382,blue,Benning Road,McPherson Square
+383,yellow,Braddock Road,King Street-Old Town
+384,orange,Rosslyn,Vienna
+385,blue,Smithsonian,Crystal City
+386,silver,Court House,McLean
+387,blue,Stadium-Armory,Arlington Cemetery
+388,green,U Street,Naylor Road
+389,silver,Capitol Heights,Innovation Center
+390,green,Anacostia,Suitland
+391,silver,McLean,Dulles International Airport
+392,silver,Herndon,Loudoun Gateway
+393,red,Tenleytown-AU,Union Station
+394,yellow,National Airport,Potomac Yard
+395,green,College Park-University of Maryland,Fort Totten
+396,red,Cleveland Park,Fort Totten
+397,green,Greenbelt,West Hyattsville
+398,silver,Metro Center,Foggy Bottom-GWU
+399,silver,Capitol South,Ballston-MU
+400,blue,Potomac Yard,Braddock Road
+401,green,Greenbelt,College Park-University of Maryland
+402,blue,Farragut West,National Airport
+403,yellow,Pentagon City,Crystal City
+404,silver,Metro Center,Rosslyn
+405,green,Fort Totten,Anacostia
+406,yellow,L'Enfant Plaza,Braddock Road
+407,orange,Minnesota Avenue,Metro Center
+408,green,Greenbelt,Gallery Place
+409,green,Waterfront,Branch Avenue
+410,red,Union Station,Fort Totten
+411,yellow,Mount Vernon Square,Potomac Yard
+412,red,Woodley Park,Gallery Place
+413,yellow,Mount Vernon Square,King Street-Old Town
+414,yellow,Gallery Place,National Airport
+415,blue,Crystal City,Van Dorn Street
+416,yellow,Gallery Place,Crystal City
+417,red,Tenleytown-AU,Gallery Place
+418,blue,Rosslyn,Franconia-Springfield
+419,red,Friendship Heights,Gallery Place
+420,orange,McPherson Square,Farragut West
+421,blue,Addison Road,Eastern Market
+422,yellow,Pentagon,Pentagon City
+423,blue,Foggy Bottom-GWU,King Street-Old Town
+424,yellow,L'Enfant Plaza,Huntington
+425,orange,Potomac Avenue,Smithsonian
+426,blue,Foggy Bottom-GWU,Arlington Cemetery
+427,red,Grosvenor-Strathmore,Forest Glen
+428,blue,Addison Road,Potomac Yard
+429,red,Shady Grove,Tenleytown-AU
+430,green,College Park-University of Maryland,Southern Avenue
+431,red,Metro Center,Brookland-CUA
+432,green,Gallery Place,Southern Avenue
+433,blue,Metro Center,Arlington Cemetery
+434,red,NoMa-Gallaudet U,Silver Spring
+435,red,Medical Center,Tenleytown-AU
+436,red,North Bethesda,Takoma
+437,red,NoMa-Gallaudet U,Brookland-CUA
+438,yellow,L'Enfant Plaza,Crystal City
+439,green,L'Enfant Plaza,Navy Yard-Ballpark
+440,red,Shady Grove,Cleveland Park
+441,blue,Eastern Market,Foggy Bottom-GWU
+442,green,L'Enfant Plaza,Anacostia
+443,silver,McPherson Square,Virginia Square-GMU
+444,blue,L'Enfant Plaza,Metro Center
+445,red,North Bethesda,Union Station
+446,orange,Eastern Market,West Falls Church
+447,yellow,Braddock Road,Huntington
+448,green,West Hyattsville,Gallery Place
+449,yellow,Pentagon City,National Airport
+450,silver,Court House,Tysons
+451,red,Brookland-CUA,Glenmont
+452,red,Twinbrook,Rhode Island Avenue
+453,blue,Smithsonian,Potomac Yard
+454,silver,Morgan Boulevard,Federal Triangle
+455,red,Cleveland Park,NoMa-Gallaudet U
+456,silver,Ballston-MU,Tysons
+457,yellow,Archives,Crystal City
+458,orange,Federal Triangle,East Falls Church
+459,orange,Eastern Market,Ballston-MU
+460,blue,Capitol Heights,Metro Center
+461,red,North Bethesda,Fort Totten
+462,blue,Farragut West,Pentagon City
+463,yellow,King Street-Old Town,Huntington
+464,red,Judiciary Square,Takoma
+465,red,Friendship Heights,Glenmont
+466,red,Gallery Place,NoMa-Gallaudet U
+467,red,Farragut North,Wheaton
+468,blue,Farragut West,Crystal City
+469,blue,Capitol South,Pentagon
+470,orange,Potomac Avenue,Rosslyn
+471,yellow,Gallery Place,National Airport
+472,orange,Federal Triangle,West Falls Church
+473,yellow,Braddock Road,Eisenhower Avenue
+474,green,West Hyattsville,Shaw-Howard University
+475,yellow,L'Enfant Plaza,Braddock Road
+476,silver,Tysons,Dulles International Airport
+477,silver,Federal Center SW,Ballston-MU
+478,green,Archives,Anacostia
+479,green,U Street,Anacostia
+480,blue,Morgan Boulevard,Farragut West
+481,silver,Downtown Largo,Tysons
+482,silver,Stadium-Armory,Virginia Square-GMU
+483,silver,Rosslyn,Spring Hill
+484,red,Woodley Park,Takoma
+485,blue,Morgan Boulevard,Crystal City
+486,silver,Benning Road,Wiehle-Reston East
+487,red,Judiciary Square,NoMa-Gallaudet U
+488,blue,Benning Road,Foggy Bottom-GWU
+489,red,Friendship Heights,Glenmont
+490,blue,Benning Road,Arlington Cemetery
+491,yellow,Eisenhower Avenue,Huntington
+492,red,Shady Grove,Wheaton
+493,silver,Smithsonian,McLean
+494,green,West Hyattsville,Archives
+495,silver,Foggy Bottom-GWU,McLean
+496,red,Fort Totten,Forest Glen
+497,silver,McLean,Innovation Center
+498,blue,Capitol South,Braddock Road
+499,blue,L'Enfant Plaza,Braddock Road
+500,silver,Addison Road,Tysons
+501,blue,Capitol South,Smithsonian
+502,red,Van Ness-UDC,Farragut North
+503,yellow,L'Enfant Plaza,National Airport
+504,yellow,Pentagon City,Braddock Road
+505,red,Dupont Circle,Brookland-CUA
+506,silver,Federal Center SW,Wiehle-Reston East
+507,green,College Park-University of Maryland,Waterfront
+508,red,Rockville,NoMa-Gallaudet U
+509,green,College Park-University of Maryland,Mount Vernon Square
+510,silver,East Falls Church,Herndon
+511,orange,Stadium-Armory,Dunn Loring
+512,orange,Rosslyn,Dunn Loring
+513,silver,Stadium-Armory,Federal Triangle
+514,green,Hyattsville Crossing,West Hyattsville
+515,red,Grosvenor-Strathmore,Friendship Heights
+516,blue,Benning Road,Farragut West
+517,orange,Deanwood,Stadium-Armory
+518,blue,Largo,Federal Center SW
+519,green,Columbia Heights,Naylor Road
+520,red,Gallery Place,Silver Spring
+521,silver,Federal Center SW,East Falls Church
+522,orange,New Carrollton,West Falls Church
+523,blue,Benning Road,Farragut West
+524,silver,Smithsonian,Virginia Square-GMU
+525,silver,Potomac Avenue,Dulles International Airport
+526,yellow,Archives,National Airport
+527,orange,Smithsonian,Virginia Square-GMU
+528,silver,Federal Center SW,Herndon
+529,blue,Farragut West,Foggy Bottom-GWU
+530,silver,Morgan Boulevard,Spring Hill
+531,red,Van Ness-UDC,Fort Totten
+532,red,Tenleytown-AU,Farragut North
+533,green,Columbia Heights,Anacostia
+534,green,Georgia Avenue-Petworth,Anacostia
+535,blue,Federal Triangle,Braddock Road
+536,blue,Addison Road,Federal Center SW
+537,blue,Benning Road,Braddock Road
+538,green,Archives,Congress Heights
+539,silver,Metro Center,Reston Town Center
+540,silver,Smithsonian,Dulles International Airport
+541,green,Navy Yard-Ballpark,Naylor Road
+542,red,Van Ness-UDC,Brookland-CUA
+543,silver,Capitol Heights,Potomac Avenue
+544,red,Brookland-CUA,Takoma
+545,red,Metro Center,Glenmont
+546,green,Waterfront,Congress Heights
+547,blue,Capitol Heights,Crystal City
+548,yellow,L'Enfant Plaza,Huntington
+549,yellow,Pentagon City,King Street-Old Town
+550,orange,Landover,McPherson Square
+551,green,Georgia Avenue-Petworth,U Street
+552,red,Metro Center,Judiciary Square
+553,yellow,Potomac Yard,Braddock Road
+554,silver,Metro Center,East Falls Church
+555,blue,Eastern Market,King Street-Old Town
+556,blue,Potomac Avenue,Crystal City
+557,blue,Benning Road,Foggy Bottom-GWU
+558,orange,Farragut West,East Falls Church
+559,blue,Benning Road,Federal Triangle
+560,orange,Minnesota Avenue,Virginia Square-GMU
+561,red,Tenleytown-AU,NoMa-Gallaudet U
+562,yellow,Archives,National Airport
+563,orange,Eastern Market,Rosslyn
+564,orange,Capitol South,Clarendon
+565,red,Cleveland Park,Metro Center
+566,silver,Benning Road,Virginia Square-GMU
+567,orange,McPherson Square,Foggy Bottom-GWU
+568,red,Medical Center,NoMa-Gallaudet U
+569,blue,Smithsonian,Crystal City
+570,silver,Farragut West,Dulles International Airport
+571,orange,Capitol South,Vienna
+572,red,Grosvenor-Strathmore,Tenleytown-AU
+573,red,Silver Spring,Wheaton
+574,silver,L'Enfant Plaza,Loudoun Gateway
+575,green,Georgia Avenue-Petworth,Southern Avenue
+576,silver,McLean,Greensboro
+577,green,U Street,Suitland
+578,red,Silver Spring,Glenmont
+579,green,Archives,Branch Avenue
+580,silver,Capitol South,L'Enfant Plaza
+581,blue,Benning Road,Federal Triangle
+582,silver,Stadium-Armory,East Falls Church
+583,silver,Potomac Avenue,Capitol South
+584,orange,Farragut West,Foggy Bottom-GWU
+585,orange,Potomac Avenue,Virginia Square-GMU
+586,silver,Morgan Boulevard,Clarendon
+587,yellow,National Airport,Eisenhower Avenue
+588,red,Twinbrook,Friendship Heights
+589,yellow,Pentagon,Braddock Road
+590,orange,Federal Triangle,Dunn Loring
+591,orange,Eastern Market,Vienna
+592,silver,Downtown Largo,McLean
+593,silver,Downtown Largo,Wiehle-Reston East
+594,orange,L'Enfant Plaza,Ballston-MU
+595,green,Columbia Heights,Naylor Road
+596,orange,Potomac Avenue,Foggy Bottom-GWU
+597,silver,Potomac Avenue,Rosslyn
+598,red,Rockville,NoMa-Gallaudet U
+599,red,Grosvenor-Strathmore,Rhode Island Avenue
+600,orange,Federal Center SW,East Falls Church
+601,red,Medical Center,Gallery Place
+602,yellow,Pentagon,National Airport
+603,silver,Morgan Boulevard,Loudoun Gateway
+604,red,Tenleytown-AU,Wheaton
+605,red,Grosvenor-Strathmore,Woodley Park
+606,red,North Bethesda,Rhode Island Avenue
+607,orange,Stadium-Armory,Federal Triangle
+608,yellow,King Street-Old Town,Eisenhower Avenue
+609,silver,Downtown Largo,Reston Town Center
+610,blue,Crystal City,Franconia-Springfield
+611,orange,Landover,East Falls Church
+612,green,U Street,Anacostia
+613,silver,Eastern Market,McLean
+614,orange,Federal Triangle,Virginia Square-GMU
+615,silver,Herndon,Dulles International Airport
+616,yellow,L'Enfant Plaza,Huntington
+617,red,Woodley Park,Forest Glen
+618,orange,Capitol South,McPherson Square
+619,blue,Federal Center SW,Braddock Road
+620,red,Grosvenor-Strathmore,Brookland-CUA
+621,orange,New Carrollton,Farragut West
+622,red,Shady Grove,Wheaton
+623,silver,Rosslyn,Clarendon
+624,blue,Smithsonian,Rosslyn
+625,red,Takoma,Glenmont
+626,silver,McPherson Square,Dulles International Airport
+627,blue,Addison Road,L'Enfant Plaza
+628,silver,Spring Hill,Dulles International Airport
+629,green,U Street,Gallery Place
+630,silver,Potomac Avenue,Capitol South
+631,blue,Addison Road,National Airport
+632,green,Gallery Place,Waterfront
+633,yellow,Pentagon City,Crystal City
+634,orange,Deanwood,Smithsonian
+635,silver,Ballston-MU,Tysons
+636,yellow,Pentagon City,Potomac Yard
+637,silver,Virginia Square-GMU,McLean
+638,red,Grosvenor-Strathmore,Medical Center
+639,silver,Eastern Market,Herndon
+640,red,Gallery Place,Judiciary Square
+641,silver,Clarendon,Wiehle-Reston East
+642,red,Dupont Circle,Forest Glen
+643,orange,Clarendon,Virginia Square-GMU
+644,red,Shady Grove,Bethesda
+645,blue,Stadium-Armory,King Street-Old Town
+646,silver,Capitol Heights,Federal Center SW
+647,green,Fort Totten,Waterfront
+648,orange,Capitol South,Clarendon
+649,blue,Braddock Road,Franconia-Springfield
+650,yellow,L'Enfant Plaza,Eisenhower Avenue
+651,orange,Deanwood,Vienna
+652,yellow,Archives,Pentagon
+653,green,Archives,Waterfront
+654,orange,Smithsonian,Dunn Loring
+655,red,Dupont Circle,Metro Center
+656,yellow,Archives,King Street-Old Town
+657,orange,Potomac Avenue,Eastern Market
+658,silver,Downtown Largo,Capitol South
+659,blue,McPherson Square,Pentagon City
+660,yellow,Pentagon,National Airport
+661,blue,Addison Road,King Street-Old Town
+662,silver,Federal Triangle,Loudoun Gateway
+663,blue,Capitol South,Arlington Cemetery
+664,red,Dupont Circle,Takoma
+665,silver,Greensboro,Spring Hill
+666,blue,King Street-Old Town,Franconia-Springfield
+667,blue,L'Enfant Plaza,Crystal City
+668,green,West Hyattsville,Navy Yard-Ballpark
+669,yellow,Crystal City,Potomac Yard
+670,yellow,Mount Vernon Square,Gallery Place
+671,blue,Foggy Bottom-GWU,Pentagon
+672,green,Hyattsville Crossing,West Hyattsville
+673,red,Takoma,Glenmont
+674,green,Shaw-Howard University,Anacostia
+675,red,Friendship Heights,Dupont Circle
+676,red,Dupont Circle,Gallery Place
+677,orange,Capitol South,West Falls Church
+678,blue,L'Enfant Plaza,National Airport
+679,orange,Potomac Avenue,Foggy Bottom-GWU
+680,orange,Landover,Virginia Square-GMU
+681,green,Fort Totten,Navy Yard-Ballpark
+682,green,Fort Totten,Shaw-Howard University
+683,yellow,Pentagon City,Eisenhower Avenue
+684,silver,Greensboro,Spring Hill
+685,orange,Federal Center SW,McPherson Square
+686,orange,East Falls Church,Vienna
+687,silver,Downtown Largo,Smithsonian
+688,blue,L'Enfant Plaza,Pentagon City
+689,green,Hyattsville Crossing,Navy Yard-Ballpark
+690,green,Columbia Heights,Mount Vernon Square
+691,yellow,L'Enfant Plaza,Eisenhower Avenue
+692,yellow,Mount Vernon Square,Braddock Road
+693,red,North Bethesda,Dupont Circle
+694,orange,Federal Center SW,Clarendon
+695,orange,Cheverly,Capitol South
+696,red,Metro Center,NoMa-Gallaudet U
+697,green,Navy Yard-Ballpark,Southern Avenue
+698,red,Rockville,Bethesda
+699,red,Grosvenor-Strathmore,Medical Center
+700,red,Grosvenor-Strathmore,Medical Center
+701,blue,L'Enfant Plaza,Braddock Road
+702,orange,Ballston-MU,Vienna
+703,green,Southern Avenue,Naylor Road
+704,orange,Stadium-Armory,Vienna
+705,green,U Street,Gallery Place
+706,red,Farragut North,Fort Totten
+707,silver,Morgan Boulevard,Smithsonian
+708,blue,Foggy Bottom-GWU,Pentagon
+709,yellow,Pentagon City,Eisenhower Avenue
+710,blue,Eastern Market,Smithsonian
+711,yellow,Mount Vernon Square,Potomac Yard
+712,red,NoMa-Gallaudet U,Forest Glen
+713,red,NoMa-Gallaudet U,Glenmont
+714,silver,Capitol Heights,McPherson Square
+715,blue,Farragut West,National Airport
+716,silver,Foggy Bottom-GWU,Greensboro
+717,silver,Capitol South,Dulles International Airport
+718,red,Rockville,Union Station
+719,silver,Spring Hill,Ashburn
+720,silver,McPherson Square,Spring Hill
+721,yellow,Gallery Place,Pentagon City
+722,yellow,Pentagon City,Huntington
+723,silver,Federal Triangle,McLean
+724,green,Fort Totten,Mount Vernon Square
+725,red,North Bethesda,Union Station
+726,orange,Deanwood,West Falls Church
+727,silver,Capitol Heights,Benning Road
+728,silver,McLean,Wiehle-Reston East
+729,red,Bethesda,Friendship Heights
+730,yellow,L'Enfant Plaza,Pentagon
+731,silver,Virginia Square-GMU,Herndon
+732,orange,Landover,Rosslyn
+733,red,NoMa-Gallaudet U,Brookland-CUA
+734,blue,Smithsonian,Pentagon City
+735,orange,Stadium-Armory,L'Enfant Plaza
+736,silver,Benning Road,Metro Center
+737,silver,Capitol Heights,Eastern Market
+738,green,Hyattsville Crossing,Shaw-Howard University
+739,yellow,Archives,Huntington
+740,green,U Street,Archives
+741,red,Twinbrook,Tenleytown-AU
+742,orange,Minnesota Avenue,Federal Center SW
+743,silver,Metro Center,Court House
+744,silver,Capitol South,Federal Center SW
+745,red,Farragut North,Silver Spring
+746,blue,Morgan Boulevard,Franconia-Springfield
+747,orange,Stadium-Armory,Federal Triangle
+748,silver,Capitol South,Loudoun Gateway
+749,blue,Addison Road,L'Enfant Plaza
+750,orange,Cheverly,Virginia Square-GMU
+751,silver,Benning Road,East Falls Church
+752,green,College Park-University of Maryland,Suitland
+753,blue,Benning Road,Pentagon City
+754,silver,Dulles International Airport,Loudoun Gateway
+755,blue,Morgan Boulevard,Benning Road
+756,yellow,Mount Vernon Square,Pentagon
+757,blue,Largo,Morgan Boulevard
+758,blue,Stadium-Armory,Rosslyn
+759,blue,Potomac Avenue,Franconia-Springfield
+760,green,Hyattsville Crossing,Georgia Avenue-Petworth
+761,red,Van Ness-UDC,Metro Center
+762,yellow,Archives,Potomac Yard
+763,red,Tenleytown-AU,NoMa-Gallaudet U
+764,silver,Potomac Avenue,East Falls Church
+765,silver,Addison Road,Potomac Avenue
+766,green,Hyattsville Crossing,U Street
+767,silver,Addison Road,Loudoun Gateway
+768,red,Grosvenor-Strathmore,Bethesda
+769,yellow,Mount Vernon Square,L'Enfant Plaza
+770,blue,Potomac Avenue,Eastern Market
+771,blue,Pentagon,Van Dorn Street
+772,orange,Potomac Avenue,Smithsonian
+773,blue,Smithsonian,Arlington Cemetery
+774,green,Fort Totten,L'Enfant Plaza
+775,orange,Dunn Loring,Vienna
+776,silver,Foggy Bottom-GWU,Ballston-MU
+777,green,Waterfront,Branch Avenue
+778,silver,Addison Road,Clarendon
+779,orange,Federal Center SW,Virginia Square-GMU
+780,yellow,Pentagon City,National Airport
+781,orange,Stadium-Armory,Metro Center
+782,yellow,Mount Vernon Square,Pentagon
+783,yellow,Crystal City,Eisenhower Avenue
+784,blue,Foggy Bottom-GWU,King Street-Old Town
+785,yellow,Archives,Braddock Road
+786,green,Fort Totten,Southern Avenue
+787,yellow,Potomac Yard,Huntington
+788,green,Congress Heights,Southern Avenue
+789,red,Twinbrook,Farragut North
+790,red,Farragut North,Gallery Place
+791,yellow,National Airport,Huntington
+792,orange,Cheverly,Farragut West
+793,red,Dupont Circle,Rhode Island Avenue
+794,silver,Court House,Wiehle-Reston East
+795,orange,Cheverly,Metro Center
+796,red,Rockville,Woodley Park
+797,red,Farragut North,Wheaton
+798,red,Woodley Park,Brookland-CUA
+799,silver,Smithsonian,McLean
+800,blue,Eastern Market,Farragut West
+801,blue,Foggy Bottom-GWU,Potomac Yard
+802,orange,New Carrollton,Farragut West
+803,green,College Park-University of Maryland,L'Enfant Plaza
+804,orange,Potomac Avenue,Virginia Square-GMU
+805,silver,Tysons,Greensboro
+806,red,Woodley Park,Forest Glen
+807,green,Anacostia,Southern Avenue
+808,blue,Morgan Boulevard,King Street-Old Town
+809,yellow,Pentagon,Crystal City
+810,orange,Cheverly,East Falls Church
+811,blue,Foggy Bottom-GWU,Crystal City
+812,orange,Landover,Rosslyn
+813,yellow,Pentagon City,King Street-Old Town
+814,yellow,Mount Vernon Square,Potomac Yard
+815,silver,Metro Center,Foggy Bottom-GWU
+816,blue,Metro Center,Potomac Yard
+817,red,Rockville,Gallery Place
+818,blue,Foggy Bottom-GWU,National Airport
+819,silver,McPherson Square,Ballston-MU
+820,orange,McPherson Square,Vienna
+821,blue,Rosslyn,National Airport
+822,red,Grosvenor-Strathmore,Takoma
+823,silver,Capitol South,Metro Center
+824,silver,Benning Road,East Falls Church
+825,yellow,L'Enfant Plaza,Eisenhower Avenue
+826,green,U Street,Naylor Road
+827,yellow,Pentagon City,Crystal City
+828,green,Greenbelt,College Park-University of Maryland
+829,blue,Largo,Smithsonian
+830,orange,Federal Center SW,Farragut West
+831,yellow,Gallery Place,Pentagon
+832,yellow,Gallery Place,Crystal City
+833,red,Medical Center,Friendship Heights
+834,yellow,Pentagon,Eisenhower Avenue
+835,blue,Smithsonian,National Airport
+836,yellow,Gallery Place,Pentagon
+837,silver,Morgan Boulevard,McLean
+838,yellow,Gallery Place,Potomac Yard
+839,blue,Stadium-Armory,Pentagon City
+840,red,North Bethesda,Dupont Circle
+841,yellow,Archives,Pentagon
+842,red,Grosvenor-Strathmore,Wheaton
+843,orange,Farragut West,Virginia Square-GMU
+844,yellow,Archives,Eisenhower Avenue
+845,blue,Morgan Boulevard,Stadium-Armory
+846,silver,McPherson Square,Greensboro
+847,green,West Hyattsville,L'Enfant Plaza
+848,yellow,Potomac Yard,King Street-Old Town
+849,red,Tenleytown-AU,Farragut North
+850,orange,Capitol South,Rosslyn
+851,orange,Capitol South,Federal Center SW
+852,red,Tenleytown-AU,Silver Spring
+853,orange,Capitol South,Court House
+854,red,Shady Grove,Farragut North
+855,red,Woodley Park,Farragut North
+856,blue,McPherson Square,Arlington Cemetery
+857,orange,Federal Center SW,Clarendon
+858,blue,Smithsonian,Van Dorn Street
+859,yellow,Mount Vernon Square,Crystal City
+860,red,North Bethesda,Judiciary Square
+861,green,Columbia Heights,Suitland
+862,yellow,Pentagon City,Braddock Road
+863,blue,Stadium-Armory,McPherson Square
+864,green,Columbia Heights,Archives
+865,yellow,L'Enfant Plaza,Potomac Yard
+866,red,Farragut North,Metro Center
+867,red,Bethesda,Friendship Heights
+868,silver,Rosslyn,Ashburn
+869,blue,Potomac Avenue,King Street-Old Town
+870,blue,Largo,Morgan Boulevard
+871,blue,Stadium-Armory,Rosslyn
+872,red,North Bethesda,Forest Glen
+873,red,Rockville,Bethesda
+874,green,Archives,Congress Heights
+875,red,Shady Grove,North Bethesda
+876,yellow,Gallery Place,Pentagon City
+877,green,Greenbelt,Fort Totten
+878,yellow,Gallery Place,Huntington
+879,green,College Park-University of Maryland,Hyattsville Crossing
+880,blue,Eastern Market,Foggy Bottom-GWU
+881,blue,Capitol South,L'Enfant Plaza
+882,green,Waterfront,Branch Avenue
+883,blue,Federal Triangle,Van Dorn Street
+884,yellow,Pentagon,Eisenhower Avenue
+885,orange,Farragut West,Virginia Square-GMU
+886,yellow,Pentagon City,Eisenhower Avenue
+887,green,Greenbelt,Archives
+888,orange,L'Enfant Plaza,Federal Triangle
+889,red,Twinbrook,NoMa-Gallaudet U
+890,red,Woodley Park,Metro Center
+891,orange,Farragut West,Foggy Bottom-GWU
+892,silver,Downtown Largo,Capitol Heights
+893,silver,Capitol South,Wiehle-Reston East
+894,blue,Potomac Avenue,L'Enfant Plaza
+895,orange,Cheverly,Smithsonian
+896,blue,Benning Road,Federal Center SW
+897,blue,Federal Triangle,Potomac Yard
+898,orange,Eastern Market,Vienna
+899,blue,Federal Center SW,Arlington Cemetery
+900,silver,Downtown Largo,L'Enfant Plaza
+901,red,Shady Grove,Forest Glen
+902,yellow,Gallery Place,National Airport
+903,yellow,Pentagon,King Street-Old Town
+904,orange,Smithsonian,Foggy Bottom-GWU
+905,red,Twinbrook,Van Ness-UDC
+906,blue,Smithsonian,McPherson Square
+907,silver,Farragut West,Ballston-MU
+908,silver,Stadium-Armory,McPherson Square
+909,silver,Clarendon,Greensboro
+910,yellow,National Airport,Braddock Road
+911,orange,Deanwood,Smithsonian
+912,red,Takoma,Glenmont
+913,yellow,Gallery Place,Braddock Road
+914,red,Twinbrook,Tenleytown-AU
+915,blue,L'Enfant Plaza,Franconia-Springfield
+916,yellow,Archives,Pentagon City
+917,yellow,Pentagon,Crystal City
+918,silver,Farragut West,Wiehle-Reston East
+919,silver,Federal Center SW,Foggy Bottom-GWU
+920,blue,Federal Center SW,Farragut West
+921,blue,Addison Road,Potomac Avenue
+922,red,Medical Center,Gallery Place
+923,green,Greenbelt,L'Enfant Plaza
+924,blue,Federal Center SW,Arlington Cemetery
+925,red,North Bethesda,Fort Totten
+926,red,Judiciary Square,NoMa-Gallaudet U
+927,yellow,Gallery Place,King Street-Old Town
+928,green,West Hyattsville,Branch Avenue
+929,green,Fort Totten,Navy Yard-Ballpark
+930,orange,Eastern Market,Virginia Square-GMU
+931,blue,Pentagon,Crystal City
+932,yellow,Pentagon,Huntington
+933,red,Dupont Circle,Brookland-CUA
+934,orange,East Falls Church,Dunn Loring
+935,orange,McPherson Square,East Falls Church
+936,orange,Smithsonian,West Falls Church
+937,yellow,Mount Vernon Square,Archives
+938,yellow,National Airport,Huntington
+939,blue,Arlington Cemetery,Van Dorn Street
+940,silver,Wiehle-Reston East,Herndon
+941,green,Hyattsville Crossing,L'Enfant Plaza
+942,green,Fort Totten,Naylor Road
+943,yellow,Pentagon,Eisenhower Avenue
+944,green,Columbia Heights,Congress Heights
+945,green,U Street,Archives
+946,silver,Addison Road,Greensboro
+947,orange,New Carrollton,McPherson Square
+948,red,Shady Grove,Forest Glen
+949,blue,Federal Triangle,Pentagon
+950,orange,Potomac Avenue,West Falls Church
+951,orange,Court House,Dunn Loring
+952,green,Greenbelt,Congress Heights
+953,red,Bethesda,Rhode Island Avenue
+954,red,North Bethesda,Brookland-CUA
+955,yellow,Braddock Road,Huntington
+956,green,Columbia Heights,Waterfront
+957,orange,Deanwood,Court House
+958,blue,Benning Road,Pentagon
+959,orange,Federal Triangle,Farragut West
+960,orange,New Carrollton,Farragut West
+961,orange,Cheverly,Capitol South
+962,orange,Farragut West,Ballston-MU
+963,red,Shady Grove,Judiciary Square
+964,red,Farragut North,Metro Center
+965,blue,Federal Center SW,Metro Center
+966,yellow,Mount Vernon Square,Braddock Road
+967,green,Southern Avenue,Suitland
+968,red,Rockville,Farragut North
+969,silver,Rosslyn,East Falls Church
+970,yellow,L'Enfant Plaza,National Airport
+971,green,L'Enfant Plaza,Branch Avenue
+972,red,Grosvenor-Strathmore,Medical Center
+973,orange,Capitol South,Vienna
+974,blue,Potomac Avenue,Federal Center SW
+975,yellow,Archives,Potomac Yard
+976,orange,Cheverly,L'Enfant Plaza
+977,yellow,Pentagon City,National Airport
+978,yellow,Mount Vernon Square,King Street-Old Town
+979,blue,Eastern Market,Metro Center
+980,green,Columbia Heights,Suitland
+981,blue,Largo,Pentagon
+982,orange,Eastern Market,Dunn Loring
+983,yellow,Pentagon City,National Airport
+984,orange,Foggy Bottom-GWU,Dunn Loring
+985,orange,Cheverly,McPherson Square
+986,yellow,Archives,Pentagon City
+987,silver,Benning Road,Innovation Center
+988,orange,Smithsonian,Farragut West
+989,yellow,Potomac Yard,Braddock Road
+990,yellow,National Airport,Braddock Road
+991,yellow,Potomac Yard,King Street-Old Town
+992,silver,Farragut West,East Falls Church
+993,red,Woodley Park,Rhode Island Avenue
+994,red,Medical Center,Gallery Place
+995,yellow,Pentagon,Braddock Road
+996,silver,Stadium-Armory,Wiehle-Reston East
+997,silver,Potomac Avenue,Capitol South
+998,blue,Addison Road,McPherson Square
+999,orange,Stadium-Armory,Vienna
+1000,red,Shady Grove,Dupont Circle
+1001,silver,Federal Triangle,Virginia Square-GMU
+1002,yellow,Pentagon,King Street-Old Town
+1003,green,Waterfront,Branch Avenue
+1004,red,Shady Grove,Twinbrook
+1005,red,Van Ness-UDC,Woodley Park
+1006,blue,Addison Road,Crystal City
+1007,green,Fort Totten,Southern Avenue
+1008,blue,Farragut West,Crystal City
+1009,yellow,Crystal City,Braddock Road
+1010,silver,Federal Center SW,McLean
+1011,red,North Bethesda,Friendship Heights
+1012,green,West Hyattsville,Branch Avenue
+1013,silver,Benning Road,Potomac Avenue
+1014,orange,Metro Center,Clarendon
+1015,blue,Smithsonian,Foggy Bottom-GWU
+1016,yellow,Mount Vernon Square,National Airport
+1017,orange,Eastern Market,L'Enfant Plaza
+1018,blue,Potomac Avenue,Rosslyn
+1019,silver,McLean,Spring Hill
+1020,red,Grosvenor-Strathmore,Glenmont
+1021,red,Cleveland Park,Silver Spring
+1022,orange,Potomac Avenue,Metro Center
+1023,red,Shady Grove,Cleveland Park
+1024,orange,Deanwood,Farragut West
+1025,silver,East Falls Church,McLean
+1026,silver,Federal Triangle,Clarendon
+1027,green,Georgia Avenue-Petworth,Gallery Place
+1028,blue,Morgan Boulevard,L'Enfant Plaza
+1029,blue,Capitol Heights,Eastern Market
+1030,green,West Hyattsville,Shaw-Howard University
+1031,red,NoMa-Gallaudet U,Silver Spring
+1032,blue,Benning Road,Farragut West
+1033,yellow,Gallery Place,King Street-Old Town
+1034,yellow,Mount Vernon Square,Eisenhower Avenue
+1035,red,Tenleytown-AU,Cleveland Park
+1036,orange,Court House,Dunn Loring
+1037,blue,Largo,National Airport
+1038,green,Archives,L'Enfant Plaza
+1039,red,Medical Center,Takoma
+1040,silver,Farragut West,Foggy Bottom-GWU
+1041,yellow,Mount Vernon Square,Braddock Road
+1042,silver,Metro Center,Loudoun Gateway
+1043,blue,Benning Road,Eastern Market
+1044,green,Waterfront,Naylor Road
+1045,green,Waterfront,Anacostia
+1046,orange,New Carrollton,Capitol South
+1047,yellow,Pentagon,Crystal City
+1048,green,L'Enfant Plaza,Southern Avenue
+1049,orange,Cheverly,Foggy Bottom-GWU
+1050,blue,Foggy Bottom-GWU,Rosslyn
+1051,orange,Stadium-Armory,Dunn Loring
+1052,yellow,Pentagon,Braddock Road
+1053,red,Metro Center,Silver Spring
+1054,orange,Federal Center SW,Court House
+1055,orange,Federal Triangle,Rosslyn
+1056,red,Dupont Circle,Rhode Island Avenue
+1057,orange,Stadium-Armory,Ballston-MU
+1058,orange,Cheverly,Virginia Square-GMU
+1059,red,Union Station,Glenmont
+1060,red,Union Station,Fort Totten
+1061,orange,Landover,Court House
+1062,silver,Smithsonian,Court House
+1063,green,U Street,Southern Avenue
+1064,green,Naylor Road,Branch Avenue
+1065,yellow,Gallery Place,L'Enfant Plaza
+1066,blue,Potomac Avenue,Federal Center SW
+1067,red,North Bethesda,Glenmont
+1068,yellow,Crystal City,Eisenhower Avenue
+1069,silver,Metro Center,Farragut West
+1070,yellow,Mount Vernon Square,King Street-Old Town
+1071,green,Waterfront,Anacostia
+1072,silver,Downtown Largo,McPherson Square
+1073,orange,Minnesota Avenue,McPherson Square
+1074,yellow,Archives,Braddock Road
+1075,silver,Smithsonian,Court House
+1076,red,Grosvenor-Strathmore,Medical Center
+1077,red,Brookland-CUA,Forest Glen
+1078,silver,Farragut West,Reston Town Center
+1079,orange,Federal Center SW,Rosslyn
+1080,red,North Bethesda,Union Station
+1081,silver,Virginia Square-GMU,Dulles International Airport
+1082,yellow,Gallery Place,National Airport
+1083,orange,Cheverly,L'Enfant Plaza
+1084,red,Friendship Heights,Van Ness-UDC
+1085,green,U Street,Waterfront
+1086,green,Columbia Heights,Archives
+1087,red,Farragut North,Brookland-CUA
+1088,blue,Arlington Cemetery,Pentagon
+1089,red,North Bethesda,Gallery Place
+1090,blue,Capitol Heights,Capitol South
+1091,orange,Eastern Market,Virginia Square-GMU
+1092,blue,Eastern Market,National Airport
+1093,green,U Street,Naylor Road
+1094,green,Waterfront,Southern Avenue
+1095,blue,L'Enfant Plaza,Foggy Bottom-GWU
+1096,orange,Cheverly,Dunn Loring
+1097,red,Van Ness-UDC,Union Station
+1098,blue,Federal Triangle,Arlington Cemetery
+1099,silver,Stadium-Armory,Dulles International Airport
+1100,red,Union Station,Rhode Island Avenue
+1101,red,Bethesda,Van Ness-UDC
+1102,silver,Stadium-Armory,Potomac Avenue
+1103,yellow,Gallery Place,Pentagon
+1104,orange,Federal Triangle,Clarendon
+1105,orange,L'Enfant Plaza,Smithsonian
+1106,yellow,L'Enfant Plaza,Eisenhower Avenue
+1107,red,Medical Center,Brookland-CUA
+1108,red,Twinbrook,Union Station
+1109,orange,Deanwood,Foggy Bottom-GWU
+1110,orange,Court House,Dunn Loring
+1111,red,Grosvenor-Strathmore,Brookland-CUA
+1112,silver,East Falls Church,Ashburn
+1113,green,College Park-University of Maryland,Gallery Place
+1114,yellow,Potomac Yard,King Street-Old Town
+1115,orange,Metro Center,Court House
+1116,orange,Court House,West Falls Church
+1117,blue,Crystal City,Van Dorn Street
+1118,green,Waterfront,Navy Yard-Ballpark
+1119,blue,Metro Center,Crystal City
+1120,green,Georgia Avenue-Petworth,Gallery Place
+1121,orange,Potomac Avenue,Federal Center SW
+1122,yellow,Potomac Yard,Braddock Road
+1123,red,Medical Center,Gallery Place
+1124,red,Dupont Circle,Takoma
+1125,yellow,Mount Vernon Square,Braddock Road
+1126,silver,Rosslyn,Innovation Center
+1127,blue,Pentagon City,Potomac Yard
+1128,red,Woodley Park,Forest Glen
+1129,blue,L'Enfant Plaza,Van Dorn Street
+1130,blue,Foggy Bottom-GWU,Crystal City
+1131,yellow,Crystal City,Potomac Yard
+1132,orange,Stadium-Armory,L'Enfant Plaza
+1133,yellow,National Airport,Braddock Road
+1134,blue,Arlington Cemetery,Potomac Yard
+1135,orange,Federal Triangle,Metro Center
+1136,green,Mount Vernon Square,L'Enfant Plaza
+1137,red,Van Ness-UDC,Wheaton
+1138,blue,McPherson Square,Foggy Bottom-GWU
+1139,orange,New Carrollton,Landover
+1140,silver,Capitol South,East Falls Church
+1141,silver,Morgan Boulevard,Metro Center
+1142,yellow,Archives,Potomac Yard
+1143,blue,L'Enfant Plaza,Farragut West
+1144,blue,Capitol Heights,Federal Center SW
+1145,yellow,Braddock Road,Huntington
+1146,silver,Capitol Heights,Ballston-MU
+1147,yellow,Pentagon City,Braddock Road
+1148,silver,Capitol Heights,Metro Center
+1149,blue,Morgan Boulevard,Rosslyn
+1150,red,Twinbrook,Van Ness-UDC
+1151,yellow,Gallery Place,Archives
+1152,green,U Street,Anacostia
+1153,blue,Foggy Bottom-GWU,Franconia-Springfield
+1154,silver,Virginia Square-GMU,Tysons
+1155,silver,Morgan Boulevard,Reston Town Center
+1156,red,North Bethesda,Medical Center
+1157,orange,Potomac Avenue,Eastern Market
+1158,blue,Capitol Heights,King Street-Old Town
+1159,orange,L'Enfant Plaza,Smithsonian
+1160,red,Friendship Heights,Fort Totten
+1161,blue,Stadium-Armory,Potomac Yard
+1162,blue,Pentagon City,Crystal City
+1163,silver,Farragut West,East Falls Church
+1164,orange,Deanwood,Potomac Avenue
+1165,red,Bethesda,Judiciary Square
+1166,blue,Morgan Boulevard,National Airport
+1167,orange,New Carrollton,Federal Triangle
+1168,blue,Potomac Avenue,Capitol South
+1169,blue,Federal Center SW,National Airport
+1170,red,Friendship Heights,Wheaton
+1171,green,Mount Vernon Square,Anacostia
+1172,blue,Pentagon,King Street-Old Town
+1173,blue,Eastern Market,Van Dorn Street
+1174,red,Cleveland Park,Dupont Circle
+1175,orange,New Carrollton,Potomac Avenue
+1176,green,Shaw-Howard University,Suitland
+1177,orange,Clarendon,Dunn Loring
+1178,green,Fort Totten,U Street
+1179,blue,L'Enfant Plaza,Federal Triangle
+1180,green,Anacostia,Southern Avenue
+1181,green,Fort Totten,Congress Heights
+1182,yellow,National Airport,King Street-Old Town
+1183,orange,Farragut West,West Falls Church
+1184,yellow,Braddock Road,King Street-Old Town
+1185,green,Fort Totten,Gallery Place
+1186,red,Woodley Park,NoMa-Gallaudet U
+1187,red,Dupont Circle,Metro Center
+1188,blue,Farragut West,Van Dorn Street
+1189,blue,McPherson Square,Braddock Road
+1190,blue,Eastern Market,Pentagon
+1191,blue,Potomac Avenue,Smithsonian
+1192,orange,Eastern Market,Clarendon
+1193,blue,Capitol South,King Street-Old Town
+1194,yellow,King Street-Old Town,Huntington
+1195,red,Shady Grove,NoMa-Gallaudet U
+1196,red,Dupont Circle,Metro Center
+1197,silver,Capitol Heights,Metro Center
+1198,green,Georgia Avenue-Petworth,Congress Heights
+1199,red,Tenleytown-AU,Van Ness-UDC
+1200,red,Twinbrook,Takoma
+1201,red,Van Ness-UDC,Union Station
+1202,silver,Downtown Largo,Reston Town Center
+1203,silver,Federal Center SW,Farragut West
+1204,yellow,Pentagon City,Eisenhower Avenue
+1205,orange,Federal Center SW,West Falls Church
+1206,silver,Loudoun Gateway,Ashburn
+1207,yellow,L'Enfant Plaza,Eisenhower Avenue
+1208,red,Shady Grove,Metro Center
+1209,red,Cleveland Park,Union Station
+1210,green,College Park-University of Maryland,Waterfront
+1211,silver,Capitol South,Wiehle-Reston East
+1212,blue,Farragut West,Rosslyn
+1213,orange,Cheverly,Rosslyn
+1214,yellow,Pentagon,King Street-Old Town
+1215,green,L'Enfant Plaza,Anacostia
+1216,green,Greenbelt,L'Enfant Plaza
+1217,yellow,Gallery Place,King Street-Old Town
+1218,red,Twinbrook,Fort Totten
+1219,blue,Capitol South,Crystal City
+1220,blue,L'Enfant Plaza,Metro Center
+1221,orange,Cheverly,Dunn Loring
+1222,green,Columbia Heights,Archives
+1223,blue,Morgan Boulevard,Pentagon
+1224,blue,Stadium-Armory,Capitol South
+1225,yellow,Archives,Eisenhower Avenue
+1226,silver,Rosslyn,Wiehle-Reston East
+1227,green,Hyattsville Crossing,Shaw-Howard University
+1228,green,Greenbelt,Suitland
+1229,yellow,Mount Vernon Square,Archives
+1230,yellow,Gallery Place,Pentagon
+1231,red,Grosvenor-Strathmore,Medical Center
+1232,green,College Park-University of Maryland,Shaw-Howard University
+1233,red,North Bethesda,Glenmont
+1234,red,Rockville,Brookland-CUA
+1235,green,U Street,Shaw-Howard University
+1236,orange,Federal Center SW,Dunn Loring
+1237,orange,Eastern Market,Capitol South
+1238,yellow,Mount Vernon Square,Huntington
+1239,blue,Farragut West,Pentagon
+1240,orange,Farragut West,Foggy Bottom-GWU
+1241,orange,Federal Center SW,Rosslyn
+1242,silver,Farragut West,Tysons
+1243,blue,Arlington Cemetery,Potomac Yard
+1244,red,Rockville,Grosvenor-Strathmore
+1245,green,Gallery Place,Suitland
+1246,green,Suitland,Branch Avenue
+1247,orange,Ballston-MU,Vienna
+1248,green,Fort Totten,Georgia Avenue-Petworth
+1249,yellow,Potomac Yard,King Street-Old Town
+1250,orange,Potomac Avenue,McPherson Square
+1251,yellow,Gallery Place,Potomac Yard
+1252,blue,Benning Road,Franconia-Springfield
+1253,yellow,National Airport,King Street-Old Town
+1254,red,Friendship Heights,Van Ness-UDC
+1255,orange,Potomac Avenue,L'Enfant Plaza
+1256,blue,McPherson Square,King Street-Old Town
+1257,blue,Capitol Heights,Capitol South
+1258,silver,L'Enfant Plaza,Innovation Center
+1259,green,Anacostia,Southern Avenue
+1260,orange,Stadium-Armory,Rosslyn
+1261,orange,Minnesota Avenue,Farragut West
+1262,red,Grosvenor-Strathmore,Fort Totten
+1263,green,College Park-University of Maryland,Gallery Place
+1264,blue,Federal Center SW,Pentagon
+1265,orange,McPherson Square,Vienna
+1266,yellow,L'Enfant Plaza,King Street-Old Town
+1267,red,Rockville,Union Station
+1268,green,Georgia Avenue-Petworth,Naylor Road
+1269,blue,Metro Center,National Airport
+1270,red,Twinbrook,Union Station
+1271,green,Hyattsville Crossing,Columbia Heights
+1272,red,Woodley Park,Silver Spring
+1273,orange,New Carrollton,Landover
+1274,red,North Bethesda,Brookland-CUA
+1275,blue,Pentagon,Pentagon City
+1276,silver,Virginia Square-GMU,Herndon
+1277,orange,Minnesota Avenue,Federal Center SW
+1278,silver,Wiehle-Reston East,Loudoun Gateway
+1279,yellow,L'Enfant Plaza,Potomac Yard
+1280,blue,Eastern Market,Rosslyn
+1281,orange,Stadium-Armory,Smithsonian
+1282,orange,Cheverly,Foggy Bottom-GWU
+1283,yellow,National Airport,Eisenhower Avenue
+1284,green,Hyattsville Crossing,Georgia Avenue-Petworth
+1285,green,Archives,Anacostia
+1286,yellow,Archives,King Street-Old Town
+1287,orange,Cheverly,Dunn Loring
+1288,orange,Federal Triangle,Ballston-MU
+1289,orange,Cheverly,Eastern Market
+1290,yellow,Archives,Braddock Road
+1291,silver,Eastern Market,Greensboro
+1292,silver,Addison Road,Reston Town Center
+1293,blue,Morgan Boulevard,Franconia-Springfield
+1294,green,U Street,Shaw-Howard University
+1295,green,U Street,Gallery Place
+1296,orange,West Falls Church,Dunn Loring
+1297,green,College Park-University of Maryland,Southern Avenue
+1298,silver,Federal Center SW,Court House
+1299,green,Hyattsville Crossing,Navy Yard-Ballpark
+1300,green,U Street,L'Enfant Plaza
+1301,yellow,Potomac Yard,Huntington
+1302,green,Waterfront,Congress Heights
+1303,yellow,L'Enfant Plaza,Braddock Road
+1304,green,Shaw-Howard University,Gallery Place
+1305,silver,Morgan Boulevard,Reston Town Center
+1306,red,Twinbrook,Medical Center
+1307,orange,Deanwood,Metro Center
+1308,orange,New Carrollton,Virginia Square-GMU
+1309,blue,Morgan Boulevard,Eastern Market
+1310,silver,Potomac Avenue,Rosslyn
+1311,green,Anacostia,Southern Avenue
+1312,blue,Morgan Boulevard,King Street-Old Town
+1313,green,West Hyattsville,Mount Vernon Square
+1314,orange,Cheverly,Vienna
+1315,silver,Capitol Heights,Clarendon
+1316,silver,Farragut West,Greensboro
+1317,blue,Addison Road,Van Dorn Street
+1318,silver,Capitol Heights,Reston Town Center
+1319,red,Grosvenor-Strathmore,Cleveland Park
+1320,silver,Benning Road,Stadium-Armory
+1321,yellow,Crystal City,Huntington
+1322,blue,Smithsonian,McPherson Square
+1323,silver,Potomac Avenue,Dulles International Airport
+1324,green,Gallery Place,Branch Avenue
+1325,yellow,Mount Vernon Square,Archives
+1326,red,North Bethesda,Takoma
+1327,red,Tenleytown-AU,NoMa-Gallaudet U
+1328,green,Shaw-Howard University,Waterfront
+1329,blue,Morgan Boulevard,Potomac Yard
+1330,red,Rockville,Grosvenor-Strathmore
+1331,red,Twinbrook,Wheaton
+1332,silver,Wiehle-Reston East,Loudoun Gateway
+1333,green,Navy Yard-Ballpark,Suitland
+1334,green,College Park-University of Maryland,Columbia Heights
+1335,green,Shaw-Howard University,Southern Avenue
+1336,green,Shaw-Howard University,Waterfront
+1337,yellow,Pentagon City,Huntington
+1338,silver,Eastern Market,Foggy Bottom-GWU
+1339,blue,Addison Road,National Airport
+1340,yellow,Mount Vernon Square,Braddock Road
+1341,silver,Smithsonian,McPherson Square
+1342,yellow,Gallery Place,Braddock Road
+1343,yellow,Archives,L'Enfant Plaza
+1344,orange,Federal Center SW,West Falls Church
+1345,green,Gallery Place,Navy Yard-Ballpark
+1346,yellow,King Street-Old Town,Eisenhower Avenue
+1347,orange,Deanwood,Vienna
+1348,green,Navy Yard-Ballpark,Southern Avenue
+1349,orange,Rosslyn,East Falls Church
+1350,silver,Federal Triangle,Ballston-MU
+1351,yellow,Gallery Place,King Street-Old Town
+1352,orange,Foggy Bottom-GWU,Dunn Loring
+1353,yellow,Pentagon,King Street-Old Town
+1354,blue,McPherson Square,Potomac Yard
+1355,orange,Deanwood,Court House
+1356,blue,Federal Center SW,Franconia-Springfield
+1357,orange,Eastern Market,Capitol South
+1358,red,Farragut North,Judiciary Square
+1359,green,Fort Totten,U Street
+1360,red,Gallery Place,Brookland-CUA
+1361,silver,Potomac Avenue,Ashburn
+1362,green,Hyattsville Crossing,Georgia Avenue-Petworth
+1363,blue,Potomac Avenue,Pentagon
+1364,blue,L'Enfant Plaza,Smithsonian
+1365,red,Farragut North,Takoma
+1366,green,Archives,Congress Heights
+1367,green,Hyattsville Crossing,Suitland
+1368,silver,Stadium-Armory,Capitol South
+1369,red,Cleveland Park,NoMa-Gallaudet U
+1370,orange,Stadium-Armory,Ballston-MU
+1371,yellow,Gallery Place,Eisenhower Avenue
+1372,red,Silver Spring,Wheaton
+1373,yellow,Pentagon,Crystal City
+1374,red,Van Ness-UDC,Woodley Park
+1375,green,Gallery Place,Congress Heights
+1376,green,College Park-University of Maryland,Navy Yard-Ballpark
+1377,yellow,Gallery Place,King Street-Old Town
+1378,silver,Addison Road,Loudoun Gateway
+1379,green,Fort Totten,L'Enfant Plaza
+1380,blue,Van Dorn Street,Franconia-Springfield
+1381,yellow,Gallery Place,Huntington
+1382,blue,Morgan Boulevard,Crystal City
+1383,red,Cleveland Park,Farragut North
+1384,green,Shaw-Howard University,Mount Vernon Square
+1385,yellow,Braddock Road,King Street-Old Town
+1386,green,West Hyattsville,Gallery Place
+1387,orange,Landover,Capitol South
+1388,red,Gallery Place,Wheaton
+1389,silver,Morgan Boulevard,McPherson Square
+1390,red,Van Ness-UDC,Takoma
+1391,green,Waterfront,Congress Heights
+1392,blue,Addison Road,Capitol Heights
+1393,orange,Eastern Market,Capitol South
+1394,orange,Deanwood,McPherson Square
+1395,yellow,L'Enfant Plaza,Crystal City
+1396,silver,Metro Center,Ashburn
+1397,silver,McPherson Square,Wiehle-Reston East
+1398,green,Fort Totten,U Street
+1399,green,Georgia Avenue-Petworth,Branch Avenue
+1400,blue,Morgan Boulevard,Metro Center
